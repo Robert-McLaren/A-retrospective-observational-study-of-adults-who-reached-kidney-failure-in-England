@@ -1,0 +1,1247 @@
+﻿medcodeid,dm_term,dm_type
+302011,Diabetic peripheral angiopathy,NOS
+9093013,Diabetic retinopathy,NOS
+15518018,Secondary diabetes mellitus,NOS
+19931010,Brittle diabetes,NOS
+65526011,Diabetic amyotrophy,NOS
+73294018,Diabetic cataract,NOS
+73466011,Non-insulin dependent diabetes mellitus,Type 2
+77727018,Insulin dependent diabetes mellitus,NOS
+82373015,Diabetic polyneuropathy,NOS
+96244016,Protein-deficient diabetes mellitus,NOS
+98476015,Proliferative diabetic retinopathy,NOS
+121589010,Diabetes mellitus,NOS
+178798017,Diabetic ketoacidosis without coma,NOS
+197761014,Type 2 diabetes mellitus,Type 2
+197984010,Type 1 diabetes mellitus,Type 1
+205225016,Diabetic nephropathy,NOS
+216195015,Diabetes care by hospital only,NOS
+216201011,Diabetic retinopathy screening,NOS
+250447011,Diabetic diet,NOS
+251187019,Diabetic association member,NOS
+251591016,H/O: diabetes mellitus,NOS
+251892015,H/O: insulin therapy,NOS
+257623014,Hb. A1C - diabetic control NOS,NOS
+264676010,Diabetic monitoring,NOS
+264677018,Initial diabetic assessment,NOS
+264678011,Follow-up diabetic assessment,NOS
+264679015,Diabetic on diet only,NOS
+264681018,Diabetic on oral treatment,NOS
+264682013,Diabetic on insulin,NOS
+264693010,Has seen dietician - diabetes,NOS
+264695015,Understands diet - diabetes,NOS
+264701014,Fundoscopy - diabetic check,NOS
+264704018,Diabetic drug side effects,NOS
+264705017,Diabetic treatment changed,NOS
+264706016,Conversion to insulin,NOS
+264707013,Diabetic - good control,NOS
+264716012,Diabetic - poor control NOS,NOS
+264717015,Diabetic - cooperative patient,NOS
+264718013,Diabetic-uncooperative patient,NOS
+264719017,Diabetic - follow-up default,NOS
+264720011,Date diabetic treatment start,NOS
+264723013,Diabetes: practice programme,NOS
+264724019,Diabetes: shared care programme,NOS
+264726017,Diabetes management plan given,NOS
+264727014,Diabetic annual review,NOS
+264728016,Annual diabetic blood test,NOS
+264729012,Diabetic monitoring NOS,NOS
+278718015,Continuous subcutaneous infusion of insulin,NOS
+282568013,Diabetic crisis monitoring,NOS
+282570016,Diabetic stabilisation,NOS
+283027015,Diabetic leaflet given,NOS
+283544013,Admit diabetic emergency,NOS
+283584016,Non-urgent diabetic admission,NOS
+283620017,Referral to diabetologist,NOS
+283709014,"Refer, diabetic liaison nurse",NOS
+283889016,Diabetology D.V. requested,NOS
+283938017,Diabetology D.V. done,NOS
+283974014,Listed for Diabetology admissn,NOS
+284124018,Private referral to diabetologist,NOS
+285223014,Seen in diabetic clinic,NOS
+285751016,Attends diabetes monitoring,NOS
+285752011,Refuses diabetes monitoring,NOS
+285753018,Diabetes monitoring default,NOS
+285759019,Diabetes monitoring deleted,NOS
+292466013,Diabetes mellitus with no mention of complication,NOS
+292475010,Diabetes mellitus NOS with no mention of complication,NOS
+292478012,Other specified diabetes mellitus with ketoacidosis,NOS
+292479016,Diabetes mellitus NOS with ketoacidosis,NOS
+292480018,Diabetes mellitus with hyperosmolar coma,NOS
+292482014,"Diabetes mellitus, juvenile type, with hyperosmolar coma",NOS
+292483016,"Diabetes mellitus, adult onset, with hyperosmolar coma",NOS
+292484010,Diabetes mellitus NOS with hyperosmolar coma,NOS
+292488013,Other specified diabetes mellitus with coma,NOS
+292489017,Diabetes mellitus NOS with ketoacidotic coma,NOS
+292495016,Other specified diabetes mellitus with renal complications,NOS
+292496015,Diabetes mellitis with nephropathy NOS,NOS
+292503016,Diabetes mellitus NOS with ophthalmic manifestation,NOS
+292512019,Diabetes mellitus NOS with neurological manifestation,NOS
+292523015,Diabetes mellitus NOS with peripheral circulatory disorder,NOS
+292538019,Type I diabetes mellitus with ulcer,Type 1
+292540012,Type 1 diabetes mellitus with ulcer,Type 1
+292541011,Type 1 diabetes mellitus with gangrene,Type 1
+292543014,Type I diabetes mellitus with gangrene,Type 1
+292548017,Type 1 diabetes mellitus - poor control,Type 1
+292550013,Type I diabetes mellitus - poor control,Type 1
+292551012,Type I diabetes mellitus maturity onset,Type 1
+292553010,Type 1 diabetes mellitus maturity onset,Type 1
+292565014,Unspecified diabetes mellitus with multiple complications,NOS
+292576013,Type II diabetes mellitus with multiple complications,Type 1
+292577016,Type 2 diabetes mellitus with multiple complications,Type 1
+292579018,Type 2 diabetes mellitus with ulcer,Type 1
+292581016,Type II diabetes mellitus with ulcer,Type 1
+292582011,Type II diabetes mellitus with gangrene,Type 1
+292583018,Type 2 diabetes mellitus with gangrene,Type 1
+292589019,Type II diabetes mellitus - poor control,Type 1
+292590011,Type 2 diabetes mellitus - poor control,Type 1
+292606016,Malnutrition-related diabetes mellitus with ketoacidosis,NOS
+292617015,Diabetes mellitus with other specified manifestation,NOS
+292621010,Diabetes mellitus NOS with other specified manifestation,NOS
+292622015,Diabetes mellitus with unspecified complication,NOS
+292626017,Diabetes mellitus NOS with unspecified complication,NOS
+293756010,[X]Other specified diabetes mellitus,NOS
+293759015,[X]Unspecified diabetes mellitus with renal complications,NOS
+297492014,Diabetic mononeuritis multiplex,NOS
+297510017,Diabetic mononeuritis NOS,NOS
+297550019,Acute painful diabetic neuropathy,NOS
+297551015,Chronic painful diabetic neuropathy,NOS
+297552010,Asymptomatic diabetic neuropathy,NOS
+297754014,Preproliferative diabetic retinopathy,NOS
+297755010,Advanced diabetic maculopathy,NOS
+297758012,Diabetic retinopathy NOS,NOS
+297964010,Diabetic iritis,NOS
+303846016,Nephrotic syndrome in diabetes mellitus,NOS
+303847013,Kimmelstiel - Wilson disease,NOS
+305158015,[X]Glomerular disorders in diabetes mellitus,NOS
+306112011,"Pre-existing diabetes mellitus, insulin-dependent",NOS
+306113018,"Pre-existing diabetes mellitus, non-insulin-dependent",NOS
+308110013,"[X]Pre-existing diabetes mellitus, unspecified",NOS
+308360012,Cellulitis in diabetic foot,NOS
+309177010,Ischaemic ulcer diabetic foot,NOS
+309179013,Neuropathic diabetic ulcer - foot,NOS
+309180011,Mixed diabetic ulcer - foot,NOS
+309737011,Diabetic cheiroarthropathy,NOS
+309738018,Diabetic cheiropathy,NOS
+317347010,[D]Gangrene of toe in diabetic,NOS
+317348017,[D]Widespread diabetic foot gangrene,NOS
+324113011,Insulins and antidiabetic poisoning,NOS
+324117012,Insulins or antidiabetic poisoning NOS,NOS
+330806013,Adverse reaction to insulins and antidiabetic agents NOS,NOS
+345486016,Diabetic neuropathy,NOS
+345487013,Diabetes mellitus with neuropathy,NOS
+345492010,Diabetic mononeuropathy,NOS
+347657010,Diabetic maculopathy,NOS
+354316011,Renal diabetes,NOS
+354508018,Clinical diabetic nephropathy,NOS
+354509014,Proteinuric diabetic nephropathy,NOS
+356085010,Maturity onset diabetes in youth type 2,NOS
+356110010,"Megaloblastic anaemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness",NOS
+356119011,Abnormal metabolic state in diabetes mellitus,NOS
+356121018,Diabetic severe hyperglycaemia,NOS
+358035014,Insulin lipohypertrophy,NOS
+358036010,Insulin site lipohypertrophy,NOS
+399419012,Myasthenic syndrome due to diabetic amyotrophy,NOS
+401531012,Diabetic - poor control,NOS
+404444016,Hb. A1C - diabetic control,NOS
+405057014,Diabetes monitored,NOS
+408811014,Diabetes treatment satisfaction questionnaire,NOS
+411891014,Unstable diabetes,NOS
+429970018,Unstable type I diabetes mellitus,Type 1
+429971019,Unstable type 1 diabetes mellitus,Type 1
+429972014,Unstable insulin dependent diabetes mellitus,NOS
+448261010,Seen by diabetic liaison nurse,NOS
+449540010,Discharge by diabetic liaison nurse,NOS
+451410016,O/E - Right diabetic foot at risk,NOS
+451411017,O/E - Left diabetic foot at risk,NOS
+452078013,Subcutaneous injection of insulin,NOS
+453050019,Education score - diabetes,NOS
+453100011,H/O: Admission in last year for diabetes foot problem,NOS
+453910015,HbA1 - diabetic control,NOS
+454092018,Diabetic hyperosmolar non-ketotic state,NOS
+454093011,HONKS - Diabetic hyperosmolar non-ketotic state,NOS
+455408014,Advanced diabetic retinal disease,NOS
+456646018,Referral to diabetes nurse,NOS
+456686014,Attending diabetes clinic,NOS
+457156014,[V]Admitted for conversion to insulin,NOS
+457157017,[V]Admitted for commencement of insulin,NOS
+457231013,Seen in diabetic eye clinic,NOS
+457325013,Type I diabetes mellitus without complication,Type 1
+457326014,Type 1 diabetes mellitus without complication,Type 1
+457327017,Insulin-dependent diabetes without complication,NOS
+457328010,Non-insulin-dependent diabetes mellitus without complication,Type 2
+457329019,Type 2 diabetes mellitus without complication,Type 2
+457330012,Type II diabetes mellitus without complication,Type 2
+458512016,Diabetic on insulin and oral treatment,NOS
+459161015,Type 1 diabetes mellitus with hypoglycaemic coma,Type 1
+459162010,Insulin dependent diabetes mellitus with hypoglycaemic coma,Type 1
+459163017,Type I diabetes mellitus with hypoglycaemic coma,Type 1
+459167016,Type 2 diabetes mellitus with hypoglycaemic coma,Type 2
+459169018,Type II diabetes mellitus with hypoglycaemic coma,Type 2
+459292011,Type 1 diabetes mellitus with arthropathy,Type 1
+459293018,Insulin dependent diabetes mellitus with arthropathy,Type 1
+459294012,Type I diabetes mellitus with arthropathy,Type 1
+459295013,Type I diabetes mellitus with neuropathic arthropathy,Type 1
+459296014,Type 1 diabetes mellitus with neuropathic arthropathy,Type 1
+459306016,Type II diabetes mellitus with peripheral angiopathy,Type 2
+459308015,Type 2 diabetes mellitus with peripheral angiopathy,Type 2
+459309011,Non-insulin dependent diabetes mellitus with arthropathy,Type 2
+459310018,Type 2 diabetes mellitus with arthropathy,Type 2
+459311019,Type II diabetes mellitus with arthropathy,Type 2
+459312014,Type II diabetes mellitus with neuropathic arthropathy,Type 2
+459313016,Type 2 diabetes mellitus with neuropathic arthropathy,Type 2
+459520010,Diabetes resolved,NOS
+459694018,Diabetic lipid lowering diet,NOS
+459695017,Diabetic weight reducing diet,NOS
+459705019,Diabetes mellitus excluded,NOS
+483882011,Diabetes mellitus autosomal dominant,NOS
+483886014,Maturity onset diabetes in youth,NOS
+493773010,NIDDM - Non-insulin dependent diabetes mellitus,Type 2
+493774016,Type II diabetes mellitus,Type 2
+494564012,Type I diabetes mellitus,Type 1
+1222099015,Insulin poisoning,NOS
+1223147012,Insulin treated Type II diabetes mellitus,Type 2
+1223148019,Insulin treated non-insulin dependent diabetes mellitus,Type 2
+1227774019,[V]Dietary counselling in diabetes mellitus,NOS
+1230890017,Autonomic neuropathy due to diabetes,NOS
+1230929011,Secondary pancreatic diabetes mellitus,NOS
+1479985016,Insulin administration education,NOS
+1484867016,Non proliferative diabetic retinopathy,NOS
+1484875010,Seen by diabetologist,NOS
+1484883016,O/E - no right diabetic retinopathy,NOS
+1484886012,O/E - no left diabetic retinopathy,NOS
+1484887015,O/E - diabetic maculopathy present both eyes,NOS
+1484888013,O/E - diabetic maculopathy absent both eyes,NOS
+1484923019,Refer to diabetic foot screener,NOS
+1484954015,DNA - Did not attend diabetic clinic,NOS
+1488393013,O/E - Right diabetic foot at low risk,NOS
+1488394019,O/E - Right diabetic foot at high risk,NOS
+1488395018,O/E - Right diabetic foot - ulcerated,NOS
+1488396017,O/E - Left diabetic foot - ulcerated,NOS
+1488397014,O/E - Left diabetic foot at low risk,NOS
+1488398016,O/E - Left diabetic foot at high risk,NOS
+1488403015,O/E - Left diabetic foot at moderate risk,NOS
+1488404014,O/E - Right diabetic foot at moderate risk,NOS
+1488405010,Diabetic foot risk assessment,NOS
+1488406011,Diabetic pre-pregnancy counselling,NOS
+1488441010,Diabetes medication review,NOS
+1488898011,Hyperosmolar non-ketotic state in type 2 diabetes mellitus,Type 2
+1780260010,Self monitoring urine ketones,NOS
+1780274015,Advice about blood glucose control,NOS
+1780286017,Diabetic peripheral neuropathy screening,NOS
+1780311019,Type 1 diabetes mellitus with persistent microalbuminuria,Type 1
+1780386019,Diabetic foot examination,NOS
+1785163015,High risk proliferative diabetic retinopathy,NOS
+1785332013,Background diabetic retinopathy,NOS
+1786715019,Bronzed diabetes,NOS
+2159170012,Patient on maximal tolerated therapy for diabetes,NOS
+2159271018,Seen in diabetic foot clinic,NOS
+2159854012,Diabetes key contact,NOS
+2159948010,Diabetic retinopathy 12 month review,NOS
+2159949019,Diabetic retinopathy 6 month review,NOS
+2159955012,Under care of diabetologist,NOS
+2159956013,Under care of diabetes specialist nurse,NOS
+2159958014,Under care of diabetic foot screener,NOS
+2159960011,Diabetic retinopathy screening not indicated,NOS
+2159961010,Diabetic foot examination not indicated,NOS
+2159969012,Patient held diabetic record issued,NOS
+2159973010,O/E - right eye background diabetic retinopathy,NOS
+2159974016,O/E - left eye background diabetic retinopathy,NOS
+2159975015,O/E - right eye preproliferative diabetic retinopathy,NOS
+2159976019,O/E - left eye preproliferative diabetic retinopathy,NOS
+2159977011,O/E - right eye proliferative diabetic retinopathy,NOS
+2159978018,O/E - left eye proliferative diabetic retinopathy,NOS
+2159979014,O/E - right eye diabetic maculopathy,NOS
+2159980012,O/E - left eye diabetic maculopathy,NOS
+2160025013,Diabetic medicine,NOS
+2160090014,Diabetes mellitus induced by non-steroid drugs,NOS
+2474309019,Diabetic foot examination declined,NOS
+2474334019,Diabetes clinical management plan,NOS
+2474671011,Diabetic retinopathy screening refused,NOS
+2474726011,Pan retinal photocoagulation for diabetes,NOS
+2476117016,Maturity onset diabetes in youth type 1,NOS
+2532974016,Transition of diabetes care options discussed,NOS
+2532976019,O/E - left chronic diabetic foot ulcer,NOS
+2532977011,O/E - right chronic diabetic foot ulcer,NOS
+2533102013,Attended diabetes structured education programme,NOS
+2533106011,Referral to diabetes preconception counselling clinic,NOS
+2533107019,Patient diabetes education review,NOS
+2533110014,Referral to diabetes structured education programme,NOS
+2548205017,Diabetic retinopathy screening offered,NOS
+2548271013,Diabetes care plan agreed,NOS
+2548430017,Discharged from care of diabetes specialist nurse,NOS
+2548633012,Patient held diabetic record declined,NOS
+2549069011,Seen in community diabetes specialist clinic,NOS
+2549196011,Patient offered diabetes structured education programme,NOS
+2549222013,Seen in community diabetic specialist nurse clinic,NOS
+2549778010,Seen in diabetic nurse consultant clinic,NOS
+2549896013,O/E - sight threatening diabetic retinopathy,NOS
+2549901010,Diabetic patient unsuitable for digital retinal photography,NOS
+2622193012,Diabetes mellitus with ketoacidosis,NOS
+2674067015,Latent autoimmune diabetes mellitus in adult,NOS
+2693189019,Health education - diabetes,NOS
+2817479019,Hyperglycaemic crisis in diabetes mellitus,NOS
+2967831017,Pre-existing type 1 diabetes mellitus in pregnancy,Type 1
+3537388019,Diabetic oculopathy due to type 1 diabetes mellitus,Type 1
+3636751012,Acute complication with diabetes mellitus,NOS
+3636752017,Acute complication co-occurrent and due to diabetes mellitus,NOS
+13751000006117,Other specified diabetes mellitus with multiple comps,NOS
+13761000006115,Other specified diabetes mellitus with neurological comps,NOS
+13771000006110,Other specified diabetes mellitus with ophthalmic complicatn,NOS
+13781000006113,Other specified diabetes mellitus with other spec comps,NOS
+13811000006110,Other specified diabetes mellitus with unspecified comps,NOS
+16171000000110,Diabetes monitoring admin.NOS,NOS
+21631000000117,Diabetes monitoring admin.,NOS
+25261000000111,Diabetes clinic administration,NOS
+63021000000116,Diabetic diet - good compliance,NOS
+63041000000111,Diabetic diet - poor compliance,NOS
+72651000006114,Unstable insulin dependent diabetes mellitus,Type 1
+72711000006117,Unstable type 1 diabetes mellitus,Type 1
+72721000006113,Unstable type I diabetes mellitus,Type 1
+84281000006115,Type 1 diabetes mellitus,Type 1
+84291000006117,Type 1 diabetes mellitus - poor control,Type 1
+84301000006116,Type 1 diabetes mellitus maturity onset,Type 1
+84311000006118,Type 1 diabetes mellitus with arthropathy,Type 1
+84321000006114,Type 1 diabetes mellitus with diabetic cataract,Type 1
+84331000006112,Type 1 diabetes mellitus with gangrene,Type 1
+84341000006119,Type 1 diabetes mellitus with hypoglycaemic coma,Type 1
+84351000006117,Type 1 diabetes mellitus with mononeuropathy,Type 1
+84361000006115,Type 1 diabetes mellitus with multiple complications,Type 1
+84371000006110,Type 1 diabetes mellitus with nephropathy,Type 1
+84381000006113,Type 1 diabetes mellitus with neurological complications,Type 1
+84391000006111,Type 1 diabetes mellitus with neuropathic arthropathy,Type 1
+84401000006113,Type 1 diabetes mellitus with ophthalmic complications,Type 1
+84411000006111,Type 1 diabetes mellitus with peripheral angiopathy,Type 1
+84421000006115,Type 1 diabetes mellitus with polyneuropathy,Type 1
+84431000006117,Type 1 diabetes mellitus with renal complications,Type 1
+84441000006110,Type 1 diabetes mellitus with retinopathy,Type 1
+84451000006112,Type 1 diabetes mellitus with ulcer,Type 1
+84461000006114,Type 1 diabetes mellitus without complication,Type 1
+84471000006119,Type 2 diabetes mellitus,Type 2
+84481000006116,Type 2 diabetes mellitus - poor control,Type 2
+84491000006118,Type 2 diabetes mellitus with arthropathy,Type 2
+84501000006114,Type 2 diabetes mellitus with diabetic cataract,Type 2
+84511000006112,Type 2 diabetes mellitus with gangrene,Type 2
+84521000006116,Type 2 diabetes mellitus with hypoglycaemic coma,Type 2
+84531000006118,Type 2 diabetes mellitus with mononeuropathy,Type 2
+84541000006111,Type 2 diabetes mellitus with multiple complications,Type 2
+84551000006113,Type 2 diabetes mellitus with nephropathy,Type 2
+84561000006110,Type 2 diabetes mellitus with neurological complications,Type 2
+84571000006115,Type 2 diabetes mellitus with neuropathic arthropathy,Type 2
+84581000006117,Type 2 diabetes mellitus with ophthalmic complications,Type 2
+84591000006119,Type 2 diabetes mellitus with peripheral angiopathy,Type 2
+84601000006110,Type 2 diabetes mellitus with polyneuropathy,Type 2
+84611000006113,Type 2 diabetes mellitus with renal complications,Type 2
+84621000006117,Type 2 diabetes mellitus with retinopathy,Type 2
+84631000006119,Type 2 diabetes mellitus with ulcer,Type 2
+84641000006112,Type 2 diabetes mellitus without complication,Type 2
+84651000006114,Type I diabetes mellitus,Type 1
+84661000006111,Type I diabetes mellitus - poor control,Type 1
+84671000006116,Type I diabetes mellitus maturity onset,Type 1
+84681000006118,Type I diabetes mellitus with arthropathy,Type 1
+84691000006115,Type I diabetes mellitus with diabetic cataract,Type 1
+84701000006115,Type I diabetes mellitus with gangrene,Type 1
+84711000006117,Type I diabetes mellitus with hypoglycaemic coma,Type 1
+84721000006113,Type I diabetes mellitus with mononeuropathy,Type 1
+84731000006111,Type I diabetes mellitus with multiple complications,Type 1
+84741000006118,Type I diabetes mellitus with nephropathy,Type 1
+84751000006116,Type I diabetes mellitus with neurological complications,Type 1
+84761000006119,Type I diabetes mellitus with neuropathic arthropathy,Type 1
+84771000006114,Type I diabetes mellitus with ophthalmic complications,Type 1
+84781000006112,Type I diabetes mellitus with peripheral angiopathy,Type 1
+84791000006110,Type I diabetes mellitus with polyneuropathy,Type 1
+84801000006111,Type I diabetes mellitus with renal complications,Type 1
+84811000006114,Type I diabetes mellitus with retinopathy,Type 1
+84821000006118,Type I diabetes mellitus with ulcer,Type 1
+84831000006115,Type I diabetes mellitus without complication,Type 1
+84841000006113,Type II diabetes mellitus,Type 2
+84851000006110,Type II diabetes mellitus - poor control,Type 2
+84861000006112,Type II diabetes mellitus with arthropathy,Type 2
+84871000006117,Type II diabetes mellitus with diabetic cataract,Type 2
+84881000006119,Type II diabetes mellitus with gangrene,Type 2
+84891000006116,Type II diabetes mellitus with hypoglycaemic coma,Type 2
+84901000006117,Type II diabetes mellitus with mononeuropathy,Type 2
+84911000006119,Type II diabetes mellitus with multiple complications,Type 2
+84921000006110,Type II diabetes mellitus with nephropathy,Type 2
+84931000006113,Type II diabetes mellitus with neurological complications,Type 2
+84941000006115,Type II diabetes mellitus with neuropathic arthropathy,Type 2
+84951000006118,Type II diabetes mellitus with ophthalmic complications,Type 2
+84961000006116,Type II diabetes mellitus with peripheral angiopathy,Type 2
+84971000006111,Type II diabetes mellitus with polyneuropathy,Type 2
+84981000006114,Type II diabetes mellitus with renal complications,Type 2
+84991000006112,Type II diabetes mellitus with retinopathy,Type 2
+85001000006117,Type II diabetes mellitus with ulcer,Type 2
+85011000006119,Type II diabetes mellitus without complication,Type 2
+127041000006110,Steroid induced diabetes,NOS
+127051000006112,Steroid induced diabetes mellitus without complication,NOS
+139001000000110,Exception reporting: diabetes quality indicators,NOS
+139121000000119,Excepted from diabetes quality indicators: Informed dissent,NOS
+147481000006113,Self monitoring of blood and urine glucose,NOS
+147491000006111,Self monitoring of blood glucose,NOS
+147501000006115,Self monitoring of urine glucose,NOS
+169731000006118,Retinal abnormality - diabetes related,NOS
+189721000000113,Secondary diabetes mellitus without complication,NOS
+189831000000116,Informed consent for diabetes national audit,NOS
+189841000000113,Informed dissent for diabetes national audit,NOS
+198461000000116,Secondary pancreatic diabetes mellitus without complication,NOS
+200111000006116,Pt advised re diabetic diet,NOS
+213141000006111,"Pre-existing diabetes mellitus, unspecified",NOS
+214921000006116,Polyneuropathy in diabetes,NOS
+223291000000111,Maturity onset diabetes,NOS
+280511000006113,Non-insulin dependent diabetes mellitus with hypoglyca coma,Type 2
+280521000006117,Non-insulin dependent diabetes mellitus with mononeuropathy,Type 2
+280531000006119,Non-insulin dependent diabetes mellitus with nephropathy,Type 2
+280541000006112,Non-insulin dependent diabetes mellitus with polyneuropathy,Type 2
+280551000006114,Non-insulin dependent diabetes mellitus with ulcer,Type 2
+280561000006111,Non-insulin-dependent d m with peripheral angiopath,Type 2
+280571000006116,Non-insulin dependent diabetes mellitus,Type 2
+280581000006118,Non-insulin-dependent diabetes mellitus with multiple comps,Type 2
+280591000006115,Non-insulin-dependent diabetes mellitus with neuro comps,Type 2
+281161000006114,Non-insulin depend diabetes mellitus with diabetic cataract,Type 2
+281171000006119,Non-insulin dependent diabetes mellitus - poor control,Type 2
+281181000006116,Non-insulin dependent d m with neuropathic arthropathy,Type 2
+281211000006117,Non-insulin dependent diabetes mellitus with gangrene,Type 2
+298811000000118,Insulin therapy declined,NOS
+299191000000110,Insulin needles changed daily,NOS
+299211000000114,Insulin needles changed for each injection,NOS
+299261000000111,Diabetic 6 month review,NOS
+299601000000114,Type 1 diabetes mellitus with gastroparesis,Type 1
+299621000000117,Type 2 diabetes mellitus with gastroparesis,Type 2
+299991000000112,Referral to multidisciplinary diabetic clinic,NOS
+300021000000110,Seen in multidisciplinary diabetic clinic,NOS
+301161000000113,Insulin needles changed less than once a day,NOS
+301191000000119,Did not attend diabetic retinopathy clinic,NOS
+301611000000118,Diabetic monitoring - lower risk albumin excretion,NOS
+301641000000117,Diabetic monitoring - higher risk albumin excretion,NOS
+307661000000114,Referral to diabetic register,NOS
+308071000000112,Patient consent given for addition to diabetic register,NOS
+308811000000110,Referral to diabetic eye clinic,NOS
+354661000006118,[X] Adverse reaction to insulins and antidiabetic agents,NOS
+354671000006113,[X] Adverse reaction to insulins and antidiabetic agents NOS,NOS
+377001000006117,[X]Diabetes mellitus,NOS
+405561000000113,Diabetic digital retinopathy screening offered,NOS
+406351000000114,Referral for diabetic retinopathy screening,NOS
+468191000006114,Adverse reaction to insulins and antidiabetic agents,NOS
+472901000000116,Insulin dose changed,NOS
+479511000000117,Diabetes type 1 review,NOS
+479571000000110,Diabetes type 2 review,NOS
+479981000000119,Referral to community diabetes specialist nurse,NOS
+494831000000119,Cystic fibrosis related diabetes mellitus,NOS
+532331000000119,Diabetes structured education programme completed,NOS
+546001000000113,Attended XPERT diabetes structured education programme,NOS
+546071000000117,Attended DAFNE diabetes structured education programme,NOS
+546151000000110,DAFNE diabetes structured education programme completed,NOS
+546221000000114,DESMOND diabetes structured education programme completed,NOS
+546291000000112,XPERT diabetes structured education programme completed,NOS
+546471000000114,Diabetes structured education programme declined,NOS
+546871000000112,Referral to DAFNE diabetes structured education programme,NOS
+546961000000111,Referral to DESMOND diabetes structured education programme,NOS
+547061000000110,Referral to XPERT diabetes structured education programme,NOS
+547191000000117,Did not attend diabetes structured education programme,NOS
+547331000000115,Did not complete diabetes structured education programme,NOS
+547441000000118,Did not complete DAFNE diabetes structured education program,NOS
+548121000000116,Did not attend DAFNE diabetes structured education programme,NOS
+548131000000119,Did not attend XPERT diabetes structured education programme,NOS
+587111000006111,Non-insulin-dependent diabetes mellitus with ophthalm comps,Type 2
+587521000006111,Non-insulin-dependent diabetes mellitus with renal comps,Type 2
+607851000006113,Date diabetic treatment stopp.,NOS
+616081000006113,Diab mellit insulin-glucose infus acute myocardial infarct,NOS
+616221000006117,Diabetes mellitus in pueperium - baby previously delivered,NOS
+616231000006119,Diabetes mellitus in puerperium - baby delivered,NOS
+616241000006112,Diabetes mellitus induced by steroids,NOS
+616351000006115,Diabetes mellitus with gangrene,NOS
+616381000006111,Diabetes mellitus with ketoacidotic coma,NOS
+616391000006114,Diabetes mellitus with neurological manifestation,NOS
+616421000006118,Diabetes mellitus with ophthalmic manifestation,NOS
+616441000006113,Diabetes mellitus with peripheral circulatory disorder,NOS
+616451000006110,Diabetes mellitus with polyneuropathy,NOS
+616461000006112,Diabetes mellitus with renal manifestation,NOS
+616481000006119,"Diabetes mellitus, adult onset, + neurological manifestation",NOS
+616491000006116,"Diabetes mellitus, adult onset, + ophthalmic manifestation",NOS
+616501000006112,"Diabetes mellitus, adult onset, + unspecified complication",NOS
+616511000006110,"Diabetes mellitus, adult onset, no mention of complication",NOS
+616531000006116,"Diabetes mellitus, adult onset, with ketoacidosis",NOS
+616541000006114,"Diabetes mellitus, adult onset, with ketoacidotic coma",NOS
+616551000006111,"Diabetes mellitus, adult onset, with renal manifestation",NOS
+616561000006113,"Diabetes mellitus, adult with gangrene",NOS
+616571000006118,"Diabetes mellitus, adult, + other specified manifestation",NOS
+616581000006115,"Diabetes mellitus, adult, + peripheral circulatory disorder",NOS
+616591000006117,"Diabetes mellitus, juvenile +peripheral circulatory disorder",NOS
+616601000006113,"Diabetes mellitus, juvenile type, + ophthalmic manifestation",NOS
+616611000006111,"Diabetes mellitus, juvenile type, + unspecified complication",NOS
+616621000006115,"Diabetes mellitus, juvenile type, no mention of complication",NOS
+616641000006110,"Diabetes mellitus, juvenile type, with ketoacidosis",NOS
+616651000006112,"Diabetes mellitus, juvenile type, with ketoacidotic coma",NOS
+616661000006114,"Diabetes mellitus, juvenile type, with renal manifestation",NOS
+616671000006119,"Diabetes mellitus, juvenile, + neurological manifestation",NOS
+616681000006116,"Diabetes mellitus, juvenile, + other specified manifestation",NOS
+616691000006118,Diabetes monitor. check done,NOS
+616701000006118,Diabetes monitor.phone invite,NOS
+616711000006115,Diabetes monitor.verbal invite,NOS
+616731000006114,Diabetes monitoring 1st letter,NOS
+616741000006116,Diabetes monitoring 2nd letter,NOS
+616751000006119,Diabetes monitoring 3rd letter,NOS
+616801000006114,Diabetes resolved,NOS
+616821000006116,Diabetes well being questionnaire,NOS
+616831000006118,Diabetes with gangrene,NOS
+616891000006119,Diabetic - moderate control,NOS
+616921000006113,Diabetic amyotrophy,NOS
+616971000006114,Diabetic Charcot arthropathy,NOS
+617041000006117,Diabetic Foot Risk Assessment,NOS
+620171000000113,Referral to diabetes special interest general practitioner,NOS
+622221000000118,Maternally inherited diabetes mellitus,NOS
+640011000006114,Emergency Diabetic Admission since last appointment,NOS
+641581000006115,Non-insulin-dependent diabetes mellitus with retinopathy,NOS
+643691000000114,Insulin initiation - enhanced services administration,NOS
+646031000000112,Insulin treatment initiated,NOS
+674961000006118,NIDDM with peripheral circulatory disorder,NOS
+692951000000111,Diabetic foot screen,NOS
+719531000006118,Malnutrition-related diabetes mellitus,NOS
+719541000006111,Malnutrition-related diabetes mellitus with coma,NOS
+730411000000115,Eligible for diabetic retinopathy screening,NOS
+730471000000113,Ineligible for diabetic retinopathy screening,NOS
+733161000000116,Impaired vision due to diabetic retinopathy,NOS
+736731000000118,Excluded from diabetic retinopathy screening as moved away,NOS
+736791000000117,Excluded from diabetic retinopathy screening as deceased,NOS
+736911000000111,Excluded from diabetic retinopathy screening as blind,NOS
+737031000000119,Declined diabetic retinopathy screening,NOS
+737331000000117,Excluded from diabetic retinopathy screening,NOS
+746791000006111,Insulin-dependent diabetes without complication,NOS
+764191000006112,Foot abnormality - diabetes related,NOS
+764201000006110,Foot abnormality - diabetes related,NOS
+771331000006116,Insulin dependent diabetes mellitus with arthropathy,NOS
+771341000006114,Insulin dependent diabetes mellitus with diabetic cataract,NOS
+771351000006111,Insulin dependent diabetes mellitus with gangrene,NOS
+771361000006113,Insulin dependent diabetes mellitus with hypoglycaemic coma,NOS
+771371000006118,Insulin dependent diabetes mellitus with mononeuropathy,NOS
+771381000006115,Insulin dependent diabetes mellitus with multiple complicatn,NOS
+771391000006117,Insulin dependent diabetes mellitus with nephropathy,NOS
+771401000006115,Insulin dependent diabetes mellitus with polyneuropathy,NOS
+771411000006117,Insulin dependent diabetes mellitus with retinopathy,NOS
+771421000006113,Insulin dependent diabetes mellitus with ulcer,NOS
+771481000006112,Insulin-dependent diabetes mellitus with neurological comps,NOS
+771491000006110,Insulin-dependent diabetes mellitus with ophthalmic comps,NOS
+771501000006119,Insulin-dependent diabetes mellitus with renal complications,NOS
+772131000006111,Insulin dependent diab mell with neuropathic arthropathy,NOS
+772141000006118,Insulin dependent diab mell with peripheral angiopathy,NOS
+772151000006116,Insulin dependent diabetes maturity onset,NOS
+772161000006119,Insulin dependent diabetes mellitus,NOS
+772171000006114,Insulin dependent diabetes mellitus,NOS
+772181000006112,Insulin dependent diabetes mellitus - poor control,NOS
+777231000006119,Injection sites - diabetic,NOS
+787101000006114,IDDM with peripheral circulatory disorder,NOS
+787111000006112,IDDM-Insulin dependent diabetes mellitus,NOS
+840951000006119,Insulin treated Type 2 diabetes mellitus,NOS
+840971000006112,Diabetes mellitus autosomal dominant type 2,NOS
+841011000006112,High risk non proliferative diabetic retinopathy,NOS
+841351000006110,Insulin treated Type II diabetes mellitus,NOS
+845341000006111,Diabetes: shared care in pregnancy - diabetol and obstet,NOS
+850691000006118,Hyperosmolar non-ketotic state in type 2 diabetes mellitus,NOS
+851051000006110,Ins-treat non-ins-dep diab mel,NOS
+856531000006119,Diabetic - GP eye check,NOS
+856551000006114,Diabetic - hospital eye check,NOS
+856561000006111,Diabetic foot risk assessment,NOS
+856611000006114,Laser treated diabetic retinopathy,NOS
+856621000006118,Left proliferative diabetic retinopathy,NOS
+856631000006115,Left laser treated diabetic retinopathy,NOS
+856641000006113,Left diabetic maculopathy,NOS
+856651000006110,Left advanced diabetic retinal disease,NOS
+856661000006112,Left diabetic foot active ulceration,NOS
+856671000006117,Left diabetic foot high risk,NOS
+856681000006119,Left diabetic foot moderate risk,NOS
+856691000006116,Left diabetic foot low current risk,NOS
+856771000006110,Patient has been told has diabetes,NOS
+857031000006113,Left non-proliferative diabetic retinopathy,NOS
+857051000006118,Left preproliferative diabetic retinopathy,NOS
+857411000006110,Right proliferative diabetic retinopathy,NOS
+857421000006119,Right laser treated diabetic retinopathy,NOS
+857431000006116,Right diabetic maculopathy,NOS
+857441000006114,Right advanced diabetic retinal disease,NOS
+857691000006119,Right diabetic foot active ulceration,NOS
+857721000006112,Right diabetic foot high risk,NOS
+857741000006117,Right diabetic foot moderate risk,NOS
+857761000006118,Right diabetic foot low current risk,NOS
+857971000006110,Right non-proliferative diabetic retinopathy,NOS
+857981000006113,Right preproliferative diabetic retinopathy,NOS
+881441000006111,Diabetes mellitus - juvenile,NOS
+881451000006113,Diabetes mellitus -adult onset,NOS
+881461000006110,Diabetes+ketoacidosis -no coma,NOS
+881471000006115,Diabetes with coma,NOS
+881481000006117,Diabetes + nephropathy,NOS
+881491000006119,Diabetes + eye manifestation,NOS
+881501000006110,Diabetes + neuropathy,NOS
+881511000006113,Diabetes + periph.circulat.dis,NOS
+881521000006117,Diabetes + other complications,NOS
+902201000006112,Reaction: insulin/antidiabetic,NOS
+905621000006113,[RFC] Diabetes,NOS
+906711000006116,[RFC] Diabetic foot/leg ulcer,NOS
+908831000006118,[RFC] Diabetes mellitus,NOS
+910211000006114,[RFC] Diabetic health promotion,NOS
+910491000006117,[RFC] Diabetic leg ulcer,NOS
+910501000006113,[RFC] Diabetic foot ulcer,NOS
+913441000006119,Insulin-dependent diabetes mellitus with renal complications,NOS
+913451000006117,Type 1 diabetes mellitus with renal complications,NOS
+913461000006115,Type I diabetes mellitus with renal complications,NOS
+913471000006110,Insulin-dependent diabetes mellitus with ophthalmic comps,NOS
+913481000006113,Type 1 diabetes mellitus with ophthalmic complications,NOS
+913491000006111,Type I diabetes mellitus with ophthalmic complications,NOS
+913501000006115,Insulin-dependent diabetes mellitus with neurological comps,NOS
+913511000006117,Type 1 diabetes mellitus with neurological complications,NOS
+913521000006113,Type I diabetes mellitus with neurological complications,NOS
+913531000006111,Insulin dependent diabetes mellitus with multiple complicat,NOS
+913541000006118,Type 1 diabetes mellitus with multiple complications,NOS
+913551000006116,Type I diabetes mellitus with multiple complications,NOS
+913591000006110,Insulin dependent diabetes mellitus with ulcer,NOS
+913621000006112,Insulin dependent diabetes mellitus with gangrene,NOS
+913651000006115,Insulin dependent diabetes mellitus with retinopathy,NOS
+913661000006118,Type 1 diabetes mellitus with retinopathy,NOS
+913671000006113,Type I diabetes mellitus with retinopathy,NOS
+913681000006111,Insulin dependent diabetes mellitus - poor control,NOS
+913711000006112,Insulin dependent diabetes maturity onset,NOS
+913771000006115,Insulin dependent diabetes mellitus with mononeuropathy,NOS
+913781000006117,Type 1 diabetes mellitus with mononeuropathy,NOS
+913791000006119,Type I diabetes mellitus with mononeuropathy,NOS
+913801000006118,Insulin dependent diabetes mellitus with polyneuropathy,NOS
+913811000006115,Type 1 diabetes mellitus with polyneuropathy,NOS
+913821000006111,Type I diabetes mellitus with polyneuropathy,NOS
+913831000006114,Insulin dependent diabetes mellitus with nephropathy,NOS
+913841000006116,Type 1 diabetes mellitus with nephropathy,NOS
+913851000006119,Type I diabetes mellitus with nephropathy,NOS
+913891000006113,Insulin dependent diabetes mellitus with diabetic cataract,NOS
+913901000006112,Type 1 diabetes mellitus with diabetic cataract,NOS
+913911000006110,Type I diabetes mellitus with diabetic cataract,NOS
+913921000006119,Insulin dependent diab mell with peripheral angiopathy,NOS
+913931000006116,Type 1 diabetes mellitus with peripheral angiopathy,NOS
+913941000006114,Type I diabetes mellitus with peripheral angiopathy,NOS
+913981000006115,Insulin dependent diab mell with neuropathic arthropathy,NOS
+914031000006118,Type 2 diabetes mellitus with renal complications,NOS
+914041000006111,Type II diabetes mellitus with renal complications,NOS
+914051000006113,Type 2 diabetes mellitus with ophthalmic complications,NOS
+914061000006110,Type II diabetes mellitus with ophthalmic complications,NOS
+914071000006115,Type 2 diabetes mellitus with neurological complications,NOS
+914081000006117,Type II diabetes mellitus with neurological complications,NOS
+914151000006112,Type 2 diabetes mellitus with retinopathy,NOS
+914161000006114,Type II diabetes mellitus with retinopathy,NOS
+914221000006113,Type 2 diabetes mellitus with mononeuropathy,NOS
+914231000006111,Type II diabetes mellitus with mononeuropathy,NOS
+914241000006118,Type 2 diabetes mellitus with polyneuropathy,NOS
+914251000006116,Type II diabetes mellitus with polyneuropathy,NOS
+914261000006119,Type 2 diabetes mellitus with nephropathy,NOS
+914271000006114,Type II diabetes mellitus with nephropathy,NOS
+914301000006111,Type 2 diabetes mellitus with diabetic cataract,NOS
+914311000006114,Type II diabetes mellitus with diabetic cataract,NOS
+914391000006116,Insulin treated Type 2 diabetes mellitus,NOS
+918281000006116,Pt advised re diabetic diet,NOS
+928461000006119,Type 1 diabetes mellitus with persistent proteinuria,NOS
+928471000006114,Type I diabetes mellitus with persistent proteinuria,NOS
+928491000006110,Type I diabetes mellitus with persistent microalbuminuria,NOS
+928501000006119,Type 1 diabetes mellitus with ketoacidosis,NOS
+928511000006116,Type I diabetes mellitus with ketoacidosis,NOS
+928521000006112,Type 1 diabetes mellitus with ketoacidotic coma,NOS
+928531000006110,Type I diabetes mellitus with ketoacidotic coma,NOS
+928541000006117,Type 2 diabetes mellitus with persistent proteinuria,NOS
+928551000006115,Type II diabetes mellitus with persistent proteinuria,NOS
+928561000006118,Type 2 diabetes mellitus with persistent microalbuminuria,NOS
+928571000006113,Type II diabetes mellitus with persistent microalbuminuria,NOS
+928581000006111,Type 2 diabetes mellitus with ketoacidosis,NOS
+928591000006114,Type II diabetes mellitus with ketoacidosis,NOS
+928601000006118,Type 2 diabetes mellitus with ketoacidotic coma,NOS
+928611000006115,Type II diabetes mellitus with ketoacidotic coma,NOS
+931191000006110,Excepted from diabetes qual indicators: Patient unsuitable,NOS
+932641000006116,Diabetes with coma,NOS
+933211000006112,DM + persist microalbuminuria,NOS
+933221000006116,DM + persistent proteinuria,NOS
+933231000006118,Hypo states in diabetes,NOS
+938301000006114,Type 1 diabetes mellitus with exudative maculopathy,NOS
+938311000006112,Type I diabetes mellitus with exudative maculopathy,NOS
+938321000006116,Type 2 diabetes mellitus with exudative maculopathy,NOS
+938331000006118,Type II diabetes mellitus with exudative maculopathy,NOS
+958321000006115,DHDS pilot project outcome - new diagnosis Diabetes,NOS
+967631000006115,DM induced by non-steroid drugs without complication,NOS
+967701000006116,Lipoatrophic diabetes mellitus,NOS
+975251000006111,O/E - right eye stable treated prolif diabetic retinopathy,NOS
+975261000006113,O/E - left eye stable treated prolif diabetic retinopathy,NOS
+987441000006113,Six month diabetic review,NOS
+1065811000000118,Discharged from diabetes shared care programme,NOS
+1139821000000110,Unsuitable for diabetes year of care programme,NOS
+1139861000000119,Declined consent for diabetes year of care programme,NOS
+1162341000000110,Insulin treatment stopped,NOS
+1164191000000111,Education in self management of diabetes,NOS
+1177721000000112,Diabetic on subcutaneous treatment,NOS
+1539131000006115,Referral for diabetic retinopathy screening,NOS
+1573121000006119,Insulin started by GP,NOS
+1583841000006111,Ineligibility for diabetic eye screening,NOS
+1583851000006113,Ineligibility for diab. eye screen: Discharged for other reason,NOS
+1583861000006110,Ineligibility for diabetic eye screening: Persistent DNA,NOS
+1583871000006115,Ineligibility for diabetic eye screening: No contact details,NOS
+1583881000006117,Ineligibility for diab. eye screening: Declined to participate,NOS
+1583891000006119,Ineligib for diab. eye screen: No longer categorised as diabetic,NOS
+1583901000006115,Ineligibility for diab. eye screen: Blind (screening contraind),NOS
+1583911000006117,Ineligibility for diabetic eye screening: Under ophthalmic care,NOS
+1583921000006113,Ineligibility for diabetic eye screening: Deceased,NOS
+1583931000006111,Ineligibility for diabetic eye screening: Moved away,NOS
+1621011000006115,No evidence of diabetic peripheral neuropathy,NOS
+1627291000006113,Did not complete DESMOND diabetes structured educat program,NOS
+1628311000006111,Did not complete XPERT diabetes structured education program,NOS
+1628621000006112,Did not attend DESMOND diabetes structured education program,NOS
+1628691000006114,Seen by general practitioner special interest in diabetes,NOS
+1658821000000117,Diabetic dietary review,NOS
+1658861000000113,Type I diabetic dietary review,NOS
+1658901000000118,Type II diabetic dietary review,NOS
+1658941000000115,Diabetic dietary review declined,NOS
+1665721000000112,Type 2 diabetic dietary review,NOS
+1665751000000119,Type 1 diabetic dietary review,NOS
+1666911000000113,O/E - Left diabetic foot at increased risk,NOS
+1666931000000117,O/E - Right diabetic foot at increased risk,NOS
+1667891000000113,Hyperosmolar non-ketotic state in type II diabetes mellitus,NOS
+1667921000000117,Type II diabetes mellitus with gastroparesis,NOS
+1667941000000112,Type I diabetes mellitus with gastroparesis,NOS
+1673581000006117,Ineligibility for diabetic eye screening: Physical disability,NOS
+1673591000006119,Ineligib for diab. eye screening: Learning or mental disability,NOS
+1673601000006110,Ineligibility for diabetic eye screening: Terminal illness,NOS
+1682711000006119,Declined referral to DESMOND diabet. structured educat programme,NOS
+1682761000006116,Advice given about insulin storage,NOS
+1682801000006113,Diabetic sick day rules advice,NOS
+1690631000000113,Did not attend diabetes foot screening,NOS
+1694761000006113,Newly diagnosed diabetes,NOS
+1694811000006118,Insulin administration education,NOS
+1696331000006114,Diabetic dermopathy,NOS
+1704651000006111,Diabetic retinopathy screening administrative status,NOS
+1704681000006115,Eligibility temporarily inactive for diabetic retinop screen,NOS
+1704691000006117,Eligibility permanently inactive for diabetic retinop screen,NOS
+1704731000006113,Excluded diabetc retinop screen as under care ophthalmolgist,NOS
+1704771000006111,Excluded frm diab retinop screen as no currnt contct details,NOS
+1704781000006114,Excluded frm diabetic retinopathy screen as terminal illness,NOS
+1704791000006112,Excluded from diabetic retinopthy screen as learn disability,NOS
+1704801000006113,Excluded from diabetic retinopathy screen physical disorder,NOS
+1713231000006118,QDiabetes (QDScore) type 2 diabetes 10 year risk,NOS
+1713371000006112,Diabetic medicine,NOS
+1724331000006117,Insulin treatment stopped,NOS
+1732691000000113,Insulin dose,NOS
+1734281000000117,Diabetic erectile dysfunction review,NOS
+1734721000000114,Diabetic assessment of erectile dysfunction,NOS
+1744461000006117,Self-administration of insulin,NOS
+1744471000006112,Needs carer to administer insulin,NOS
+1752811000000118,No evidence of diabetic nephropathy,NOS
+1754911000006114,Excepted from diabetes qual indicators: service unavailable,NOS
+1755441000006119,Diabetes monitor invitation by SMS (short message service),NOS
+1759911000000118,Diabetes care plan declined,NOS
+1763361000006116,Participant in ASCEND(A Study of Cardiovascu.Events in Diabetes),NOS
+1763421000006116,Insulin dose,NOS
+1763761000006115,No evidence of diabetic nephropathy,NOS
+1767201000006118,Pre-conception advice for diabetes mellitus,NOS
+1773381000006119,Seen in in-house nurse-led diabetic clinic,NOS
+1775381000006118,Referred to Diabetes Service,NOS
+1776581000006117,Reason for referral: Diabetes,NOS
+1780981000006115,Diabetic on non-insulin injectable,NOS
+1783381000006112,Insulin alert pat information booklet information discussed,NOS
+1784011000006116,Advised to maintain back up supply insulin subcut injection,NOS
+1784711000006118,Prof judgemnt not to engage pt wt insulin alert requirements,NOS
+1788071000006115,Insulin passport checked,NOS
+1799241000000115,Insulin alert patient information booklet given,NOS
+1799301000000112,Insulin passport given,NOS
+1799541000000117,Insulin passport completed,NOS
+1799591000000110,Informed dissent not to carry insulin passport,NOS
+1804191000006114,Diabetic retinopathy screen done by optician,NOS
+1822191000006112,Diabetes pathway protocol not followed,NOS
+1822391000006114,Date other antidiabetic drug started,NOS
+1823921000006119,Diabetes mellitus confirmed,NOS
+1824081000006117,Diabetes clinical pathway protocol followed,NOS
+1824641000006115,Advised about diabetes and driving,NOS
+1824931000006119,Home visit for diabetes monitoring,NOS
+1839671000006113,Diabetic short review,NOS
+1841451000006115,Diabetic foot screening invitation,NOS
+1841461000006118,Diabetic foot screening invitation letter,NOS
+1841471000006113,Diabetic foot screening invitation first letter,NOS
+1841481000006111,Diabetic foot screening invitation second letter,NOS
+1841491000006114,Diabetic foot screening invitation third letter,NOS
+1842001000006118,Diabetic annual review by practice nurse,NOS
+1850931000006111,Reason for influenza vaccine - diabetes mellitus,NOS
+1853141000006111,In-house diabetes foot screening,NOS
+1853151000006113,In-house diabetes foot screen first appointment,NOS
+1853161000006110,In-house diabetes foot screen follow-up appointment,NOS
+1853171000006115,In-house diabetes foot screen discharge,NOS
+1854821000006113,Diabetes year of care annual review,NOS
+1855341000006113,Conversion to insulin by hospital,NOS
+1855351000006110,Conversion to insulin by diabetic specialist nurse,NOS
+1856641000006113,Diabetes monitoring in primary care,NOS
+1856651000006110,Diabetes monitoring in secondary care,NOS
+1856661000006112,Diabetes treatment type,NOS
+1858811000006114,AURAS-AF - consider the patient to have diabetes,NOS
+1859611000006117,Diabetic - eye check,NOS
+1861701000006118,Insulin passport not checked,NOS
+1868141000006110,Referral to DAFNE diabetes structured educn prog declined,NOS
+1873301000006114,Care contact service: diabetes,NOS
+1876341000006117,Diabetic 3 month review,NOS
+1877371000006111,Diabetes clinical management plan no longer in place,NOS
+1884591000006118,Further diabetic monitoring,NOS
+1891061000006117,Participant in Diabetes Aerobic and Resistance Exercise study,NOS
+1916521000006118,Access to online patient diabetes education given,NOS
+1918361000006116,Diabetes care planning test results sent to patient,NOS
+1920661000006119,Unsuitable for DESMOND diabetes structured education programme,NOS
+1932051000006114,3D study - problems with diabetes management,NOS
+1935341000006117,Patient in diabetes study,NOS
+1946681000006112,Provision of written information about diabetes & hypertensn,NOS
+1946691000006110,Provision of written information about diabetes and high BP,NOS
+1946701000006110,Provision written information abt diabetes & high HbA1c levl,NOS
+1946711000006113,Provsn written information about diabetes & high cholesterol,NOS
+1947151000006112,Joint consultn pracse nurse & comm diabetes specialist nurse,NOS
+1947161000006114,Joint consultation GP & community diabetes specialist nurse,NOS
+1954041000006119,Diabetic - uses carbohydrate counting,NOS
+1955171000006110,Keele ENHANCE trial - diabetic review,NOS
+1957911000006111,H/O: hypoglycaemic event in diabetes,NOS
+1957931000006117,No H/O hypoglycaemic event in diabetes,NOS
+1960611000006113,Diabetic foot examination - action required,NOS
+1960621000006117,Diabetic foot examination - no action required,NOS
+1966311000006116,Diabetic on oral treatment and glucagon-like peptide 1,NOS
+1966321000006112,Diabetic on insulin and glucagon-like peptide 1,NOS
+1966441000006113,Recommendation self-refer for diabetes structured education,NOS
+1984081000006115,Manchester triage - Diabetes,NOS
+1987971000006114,X-PERT First Steps diabetes self-management programme complt,NOS
+1988741000006117,Pre-existing type 2 diabetes mellitus in pregnancy,NOS
+1996751000006117,Insulin injection technique checked,NOS
+2014951000006115,New diabetic foot ulcer,NOS
+2115761000000117,Diabetes self-management plan review,NOS
+2116661000000116,Referral to community diabetes service,NOS
+2117891000000114,Diabetes self-management plan agreed,NOS
+2139121000000115,Insulin passport checked,NOS
+2156571000000116,Provision of diabetes clinical summary,NOS
+2168881000000114,Subcutaneous infusion with insulin pump,NOS
+2176771000000110,Referral to community diabetes specialist nurse declined,NOS
+2182651000000118,Referral to community diabetes clinic,NOS
+2205911000000116,Diabetes clinical pathway,NOS
+2220161000000117,Provision of written information about diabetes and driving,NOS
+2227781000000112,Diabetic foot screening invitation,NOS
+2227861000000112,Diabetic foot screening invitation first letter,NOS
+2227981000000110,Diabetic foot screening invitation second letter,NOS
+2230301000000116,Diabetic foot screening invitation third letter,NOS
+2243331000000115,Erectile dysfunction due to diabetes mellitus,NOS
+2249831000000111,In-house diabetic foot screening,NOS
+2249871000000113,In-house diabetic foot screening first appointment,NOS
+2249951000000114,In-house diabetic foot screening follow-up appointment,NOS
+2249991000000118,Discharge from in-house diabetic foot screening,NOS
+2262341000000113,Conversion to insulin in secondary care,NOS
+2262381000000117,Conversion to insulin by diabetes specialist nurse,NOS
+2265851000000114,Insulin passport not checked,NOS
+2279261000000115,Education about diabetes and driving,NOS
+2279291000000114,Advice about diabetes and driving,NOS
+2283241000000113,Diabetes structured education programme not available,NOS
+2287311000000111,Diabetes Year of Care annual review,NOS
+2287971000000119,Diabetes mellitus in remission,NOS
+2288011000000114,Type I diabetes mellitus in remission,NOS
+2288041000000110,Type 1 diabetes mellitus in remission,NOS
+2288061000000111,Type II diabetes mellitus in remission,NOS
+2288071000000116,Type 2 diabetes mellitus in remission,NOS
+2337941000000112,Diabetes Distress Scale 2 item,NOS
+2338051000000112,Diabetes Distress Scale 17 item,NOS
+2359401000000111,Conversion to non-insulin injectable medication,NOS
+2368911000000117,Diabetic foot care education,NOS
+2369111000000112,Lifestyle education for diabetes,NOS
+2378231000000112,Discharge from secondary care diabetes service,NOS
+2380481000000115,Enquiry about diabetic erectile dysfunction declined,NOS
+2415191000000113,Diabetic peripheral neuropathic pain,NOS
+2460251000000115,Diabetic on non-insulin injectable medication,NOS
+2460621000000111,Provision of diabetes identity card,NOS
+2461101000000116,Has diabetes identity card,NOS
+2465001000000115,Diabetic injection administration education,NOS
+2493341000000118,Young Townson FootSkin Scale for Diabetic Neuropathy,NOS
+2500921000000110,Diabetic carbohydrate counting diet,NOS
+2576431000006117,DR - Diabetic retinopathy,NOS
+2586611000000113,Seen by diabetes specialist nurse,NOS
+2586691000000116,Under care of hospital-based diabetes specialist nurse,NOS
+2586731000000110,Under care of community-based diabetes specialist nurse,NOS
+2649991000006110,Latent diabetes,NOS
+2650001000006110,Chemical diabetes,NOS
+2683561000006119,Brittle diabetes mellitus,NOS
+2683581000006112,Labile diabetes,NOS
+2683591000006110,Unstable diabetes mellitus,NOS
+2900941000006117,Ophthalmic manifestations of diabetes,NOS
+2900951000006115,Diabetic eye disease,NOS
+2906401000006113,Diabetic retinal microaneurysm,NOS
+2920961000006110,Diabetic coma with ketoacidosis,NOS
+2920971000006115,Diabetic acidosis with coma,NOS
+2920981000006117,Diabetic coma,NOS
+3128741000006119,Diabetic lumbosacral radiculoplexus neuropathy,NOS
+3209431000006116,Diabetes mellitus type II,NOS
+3209441000006114,Diabetes mellitus type 2,NOS
+3253231000006110,Diabetes mellitus type I,NOS
+3253241000006117,Diabetes mellitus type 1,NOS
+3286521000006111,Drug resistance to insulin,NOS
+3319861000006118,Diabetic autonomic neuropathy,NOS
+3511581000006114,Pretibial pigmental patches in diabetes,NOS
+3690681000006114,DM - Diabetes mellitus,NOS
+3712861000006110,Disorder associated with diabetes mellitus,NOS
+4392181000006110,Renal disorder associated with diabetes mellitus,NOS
+4392201000006111,Diabetic peripheral vascular disease,NOS
+4392211000006114,Diabetes with peripheral circulatory disorder,NOS
+4392221000006118,Peripheral angiopathy due to diabetes mellitus,NOS
+4534311000006116,DD - Diabetic diet,NOS
+4539551000006112,Pre-existing diabetes mellitus,NOS
+4539561000006114,History of diabetes mellitus,NOS
+4542241000006119,History of insulin therapy,NOS
+4595261000006118,Haemoglobin A1c less than 7% indicating good diabetic control,NOS
+4595291000006114,Hemoglobin A1c (HbA1c) less than 7% indicating good diabetic control,NOS
+4595301000006110,Haemoglobin A1c (HbA1c) less than 7% indicating good diabetic control,NOS
+4595331000006119,Hemoglobin A1c between 7%-10% indicating borderline diabetic control,NOS
+4595341000006112,Hemoglobin A1c (HbA1c) between 7%-10% indicating borderline diabetic control,NOS
+4595351000006114,Haemoglobin A1c (HbA1c) between 7%-10% indicating borderline diabetic control,NOS
+4595381000006118,Haemoglobin A1c (HbA1c) greater than 10% indicating poor diabetic control,NOS
+4595391000006115,Hemoglobin A1c greater than 10% indicating poor diabetic control,NOS
+4595401000006118,Hemoglobin A1c (HbA1c) greater than 10% indicating poor diabetic control,NOS
+4600881000006113,Glucose tolerance test indicates diabetes mellitus,NOS
+4636411000006110,Diet controlled diabetes mellitus,NOS
+4636471000006118,Has seen dietitian - diabetes,NOS
+4636691000006119,Diabetes: practice program,NOS
+4636711000006116,Diabetes: shared care program,NOS
+4717371000006113,Diabetic stabilization,NOS
+4723641000006110,Diabetic emergency hospital admission,NOS
+4726201000006118,Diabetology domiciliary visit requested,NOS
+4726801000006119,Diabetology domiciliary visit done,NOS
+4727351000006110,Listed for Diabetology admission,NOS
+4757991000006116,Type 1 diabetes mellitus with hyperosmolar coma,NOS
+4758011000006112,Type 2 diabetes mellitus with hyperosmolar coma,NOS
+4758061000006110,Insulin-dependent diabetes mellitus with ulcer,NOS
+4758121000006115,Insulin-dependent diabetes maturity onset,NOS
+4771421000006116,PPDR - Preproliferative diabetic retinopathy,NOS
+4788421000006117,Nephrotic syndrome due to diabetes mellitus,NOS
+4796321000006113,Pre-existing type 2 diabetes mellitus,NOS
+4807571000006117,Ischemic ulcer diabetic foot,NOS
+4808881000006117,Diabetic hand syndrome,NOS
+4808891000006119,Diabetic cheirarthropathy,NOS
+4808921000006113,Diabetic neuropathic arthropathy,NOS
+4868691000006117,Poisoning by antidiabetic agent,NOS
+4868711000006119,Poisoning caused by antidiabetic agent,NOS
+5109461000006115,Diabetes type 2 on insulin,NOS
+5109901000006112,Diabetic severe hyperglycemia,NOS
+5110001000006118,Pregnancy and type 2 diabetes mellitus,NOS
+5110071000006112,Hypoglycaemic event in diabetes,NOS
+5110081000006110,Hypoglycemic event in diabetes,NOS
+5110461000006114,Insulin resistance - type A,NOS
+5192411000006114,Diabetic monitoring status,NOS
+5505651000006113,Diabetes mellitus uncontrolled,NOS
+5513671000006116,Hemoglobin A1C - diabetic control interpretation,NOS
+5549791000006118,DWBQ - Diabetes wellbeing questionnaire,NOS
+5634901000006116,Diabetic foot,NOS
+5754581000006110,Brittle type 1 diabetes mellitus,NOS
+5754611000006119,Brittle type I diabetes mellitus,NOS
+5754621000006110,Labile type I diabetes mellitus,NOS
+5975301000006115,On examination - Right diabetic foot at risk,NOS
+5975321000006113,On examination - Left diabetic foot at risk,NOS
+5990991000006114,History of admission in last year for diabetes foot problem,NOS
+6022721000006112,Proliferative diabetic retinopathy - high risk,NOS
+6022921000006114,Diabetic macular oedema,NOS
+6022931000006112,Diabetic macular edema,NOS
+6030001000006116,Insulin-dependent diabetes without complication,NOS
+6050041000006115,Insulin dependent diabetes mellitus with hypoglycaemic coma,NOS
+6050061000006116,Type I diabetes mellitus with hypoglycemic coma,NOS
+6050071000006111,Insulin dependent diabetes mellitus with hypoglycemic coma,NOS
+6050081000006114,Type 1 diabetes mellitus with hypoglycemic coma,NOS
+6051171000006117,Insulin dependent diabetes mellitus with arthropathy,NOS
+6056601000006112,DIGAMI - diabetes mellitus insulin-glucose infusion in acute myocardial infarction,NOS
+6280411000006114,Hemoglobin A1C - diabetic control finding,NOS
+6443831000006118,Teach insulin injection,NOS
+6444071000006112,Diabetic care education,NOS
+6444081000006110,Teach diabetic care,NOS
+6515171000006112,Nonproliferative diabetic retinopathy,NOS
+6515201000006111,NPDR - Non proliferative diabetic retinopathy,NOS
+6515211000006114,BDR - Background diabetic retinopathy,NOS
+6515391000006110,On examination - no right diabetic retinopathy,NOS
+6515431000006116,On examination - no left diabetic retinopathy,NOS
+6515451000006111,On examination - diabetic maculopathy present both eyes,NOS
+6515471000006118,On examination - diabetic maculopathy absent both eyes,NOS
+6516331000006118,DNA - Did not attend diabetic clinic,NOS
+6546241000006111,On examination - Right diabetic foot at low risk,NOS
+6546261000006110,On examination - Right diabetic foot at high risk,NOS
+6546281000006117,On examination - Right diabetic foot - ulcerated,NOS
+6546301000006118,On examination - Left diabetic foot - ulcerated,NOS
+6546321000006111,On examination - Left diabetic foot at low risk,NOS
+6546341000006116,On examination - Left diabetic foot at high risk,NOS
+6546411000006113,On examination - Left diabetic foot at moderate risk,NOS
+6546431000006119,On examination - Right diabetic foot at moderate risk,NOS
+6630591000006111,Diabetic retinal venous beading,NOS
+6761781000006114,On examination - right eye background diabetic retinopathy,NOS
+6761801000006113,On examination - left eye background diabetic retinopathy,NOS
+6761821000006115,On examination - right eye preproliferative diabetic retinopathy,NOS
+6761841000006110,On examination - left eye preproliferative diabetic retinopathy,NOS
+6761861000006114,On examination - right eye proliferative diabetic retinopathy,NOS
+6761881000006116,On examination - left eye proliferative diabetic retinopathy,NOS
+6837961000006116,Panretinal photocoagulation for diabetes,NOS
+6843971000006117,Attended diabetes structured education program,NOS
+6866421000006113,On examination - left chronic diabetic foot ulcer,NOS
+6866541000006117,On examination - left eye stable treated proliferative diabetic retinopathy,NOS
+6866781000006116,On examination - right chronic diabetic foot ulcer,NOS
+6866901000006111,On examination - right eye stable treated proliferative diabetic retinopathy,NOS
+6872971000006112,Referral to diabetes preconception counseling clinic,NOS
+6872991000006113,Referral to diabetes structured education program,NOS
+6910411000006112,On examination - sight threatening diabetic retinopathy,NOS
+6951081000006112,Ketoacidosis in type I diabetes mellitus,NOS
+6951091000006110,Diabetes type 1 with ketoacidosis,NOS
+6951281000006117,Kidney disorder associated with type 2 diabetes mellitus,NOS
+6953861000006110,Diabetic ketoacidosis,NOS
+6953871000006115,Ketoacidosis in diabetes mellitus,NOS
+6953891000006119,Diabetic acidosis,NOS
+6953901000006115,DKA - diabetic ketoacidosis,NOS
+6954121000006112,Mononeuropathy associated with type II diabetes mellitus,NOS
+6954991000006112,Exudative maculopathy associated with type I diabetes mellitus,NOS
+6955501000006113,Persistent proteinuria associated with type I diabetes mellitus,NOS
+6959091000006114,Persistent microalbuminuria associated with type II diabetes mellitus,NOS
+6959801000006112,Diabetic cataract associated with type II diabetes mellitus,NOS
+6959811000006110,Diabetes type 2 with cataract,NOS
+6960431000006119,Diabetic retinopathy associated with type I diabetes mellitus,NOS
+6960441000006112,Diabetes type 1 with retinopathy,NOS
+6961081000006118,Gangrene associated with type 1 diabetes mellitus,NOS
+6961091000006115,Gangrene associated with type I diabetes mellitus,NOS
+6961101000006114,Diabetes type 1 with gangrene,NOS
+6961901000006111,Disorder associated with type I diabetes mellitus,NOS
+6962751000006117,Mononeuropathy associated with type I diabetes mellitus,NOS
+6965561000006116,Ketoacidotic coma in type I diabetes mellitus,NOS
+6965571000006111,Diabetes mellitus type 1 with ketoacidotic coma,NOS
+6969921000006119,Neurologic disorder associated with type II diabetes mellitus,NOS
+6969931000006116,Diabetes type 2 with neurological disorder,NOS
+6970621000006114,Peripheral circulatory disorder associated with type 1 diabetes mellitus,NOS
+6970631000006112,Peripheral circulatory disorder associated with type I diabetes mellitus,NOS
+6972441000006117,Neurological disorder associated with type I diabetes mellitus,NOS
+6972451000006115,Diabetes type 1 with neurological disorder,NOS
+6975211000006112,Gangrene associated with type 2 diabetes mellitus,NOS
+6975221000006116,Gangrene associated with type II diabetes mellitus,NOS
+6977421000006110,Ketoacidosis in type II diabetes mellitus,NOS
+6977431000006113,Diabetes type 2 with ketoacidosis,NOS
+6977971000006119,Exudative maculopathy associated with type II diabetes mellitus,NOS
+6979251000006110,Diabetes mellitus type 2 with ketoacidotic coma,NOS
+6979991000006111,Renal disorder associated with type I diabetes mellitus,NOS
+6980001000006117,Kidney disorder associated with type 1 diabetes mellitus,NOS
+6980041000006115,Diabetic peripheral circulatory disorder,NOS
+6980431000006116,Diabetic cataract associated with type I diabetes mellitus,NOS
+6980441000006114,Diabetes type 1 with cataract,NOS
+6981271000006112,Non-ketotic non-hyperosmolar coma associated with diabetes mellitus,NOS
+6981621000006113,Persistent proteinuria associated with type II diabetes mellitus,NOS
+6982151000006118,Disorder due to type II diabetes mellitus,NOS
+6982511000006110,Diabetic retinopathy associated with type II diabetes mellitus,NOS
+6982521000006119,Diabetes type 2 with retinopathy,NOS
+6983511000006117,Neurologic complication of diabetes mellitus,NOS
+6983521000006113,Diabetic neurologic disease,NOS
+6983691000006114,Diabetic oculopathy associated with type II diabetes mellitus,NOS
+6985001000006110,Peripheral circulatory disorder associated with type 2 diabetes mellitus,NOS
+6985011000006113,Peripheral circulatory disorder associated with type II diabetes mellitus,NOS
+6985411000006117,Diabetic skin ulcer,NOS
+6985421000006113,Skin ulcer associated with diabetes mellitus,NOS
+6986151000006117,Multiple complications of type I diabetes mellitus,NOS
+6987011000006115,Gangrene associated with diabetes mellitus,NOS
+7065531000006115,Latent autoimmune diabetes mellitus in adult (LADA),NOS
+7119901000006114,Adverse reaction caused by antidiabetic drug,NOS
+7253221000006117,Hyperglycemic crisis in diabetes mellitus,NOS
+7281511000006118,Type 2 diabetes mellitus uncontrolled,NOS
+7287611000006113,Type 1 diabetes mellitus uncontrolled,NOS
+7287621000006117,Type I diabetes mellitus uncontrolled,NOS
+7500211000006117,Pre-existing diabetes mellitus in pregnancy,NOS
+7644681000006117,Gingivitis co-occurrent with diabetes mellitus,NOS
+7708051000006112,Gastroparesis due to diabetes mellitus type I,NOS
+7708071000006119,Gastroparesis due to diabetes mellitus type II,NOS
+7708091000006118,Polyneuropathy due to type 1 diabetes mellitus,NOS
+7708121000006119,Polyneuropathy due to diabetes mellitus type II,NOS
+7741101000006113,Diabetic embryopathy,NOS
+7746161000006117,Gingival disease co-occurrent with diabetes mellitus,NOS
+7783451000006114,Hypoglycaemic coma co-occurrent and due to diabetes mellitus type II,NOS
+7793311000006119,Provision of written information about diabetes and high hemoglobin A1c level,NOS
+7804601000006113,Not suitable for Diabetes Education and Self Management for Ongoing and Newly Diagnosed program,NOS
+7804611000006111,Not suitable for Diabetes Education and Self Management for Ongoing and Newly Diagnosed programme,NOS
+7804621000006115,Not suitable for DESMOND (Diabetes Education and Self Management for Ongoing and Newly Diagnosed) program,NOS
+7851731000006116,Diabetic mastopathy,NOS
+7861571000006116,Radiculoplexoneuropathy due to diabetes mellitus,NOS
+7861581000006118,Diabetic radiculoplexus neuropathy,NOS
+7863801000006113,Lumbosacral plexopathy co-occurrent and due to diabetes mellitus,NOS
+7863811000006111,Lumbosacral plexopathy with diabetes mellitus,NOS
+7966931000006114,Angina associated with type 2 diabetes mellitus,NOS
+7966941000006116,Angina associated with type II diabetes mellitus,NOS
+7966951000006119,Diabetic angina pectoris associated with type 2 diabetes mellitus,NOS
+8012881000006119,Good compliance with diabetic diet,NOS
+8012901000006117,Poor compliance with diabetic diet,NOS
+8014491000006111,Peripheral vascular disease due to type I diabetes,NOS
+8022441000006118,Neuropathic arthropathy due to type 1 diabetes mellitus,NOS
+8022461000006119,Diabetic neuropathic arthropathy due to type 1 diabetes mellitus,NOS
+8022471000006114,Diabetes mellitus type 1 with diabetic Charcot's arthropathy,NOS
+8033301000006115,Pre-existing diabetes mellitus in childbirth,NOS
+8059261000006114,Diabetes monitoring lower risk albumin excretion,NOS
+8059281000006116,Diabetes monitoring higher risk albumin excretion,NOS
+8082941000006118,Attended DESMOND (diabetes education and self management for ongoing and newly diagnosed) structured programme,NOS
+8082951000006116,Attended diabetes education and self management for ongoing and newly diagnosed structured programme,NOS
+8084961000006111,Diabetes type II review,NOS
+8098221000006116,Attended expert patient education versus routine treatment diabetes structured education programme,NOS
+8098241000006111,Attended XPERT (expert patient education versus routine treatment) diabetes structured education programme,NOS
+8098261000006110,Attended dose adjustment for normal eating diabetes structured education programme,NOS
+8098281000006117,Attended DAFNE (dose adjustment for normal eating) diabetes structured education programme,NOS
+8098291000006119,Dose adjustment for normal eating diabetes structured education programme completed,NOS
+8098311000006115,DAFNE (dose adjustment for normal eating) diabetes structured education programme completed,NOS
+8098321000006111,Diabetes education and self management for ongoing and newly diagnosed structured programme completed,NOS
+8098341000006116,DESMOND (diabetes education and self management for ongoing and newly diagnosed) structured programme completed,NOS
+8098351000006119,Expert patient education versus routine treatment diabetes structured education programme completed,NOS
+8098371000006112,XPERT (expert patient education versus routine treatment) diabetes structured education programme completed,NOS
+8098861000006114,Referral to dose adjustment for normal eating diabetes structured education programme,NOS
+8098881000006116,Referral to DAFNE (dose adjustment for normal eating) diabetes structured education programme,NOS
+8098931000006110,Referral to diabetes education and self management for ongoing and newly diagnosed diabetes structured programme,NOS
+8098951000006115,Referral to DESMOND (diabetes education and self management for ongoing and newly diagnosed) diabetes structured programme,NOS
+8098961000006118,Referral to expert patient education versus routine treatment diabetes structured education programme,NOS
+8098981000006111,Referral to XPERT (expert patient education versus routine treatment) diabetes structured education programme,NOS
+8099131000006117,Did not complete dose adjustment for normal eating diabetes structured education programme,NOS
+8099151000006112,Did not complete DAFNE (dose adjustment for normal eating) diabetes structured education programme,NOS
+8099161000006114,Did not complete diabetes education and self management for ongoing and newly diagnosed structured programme,NOS
+8099181000006116,Did not complete DESMOND (diabetes education and self management for ongoing and newly diagnosed) structured programme,NOS
+8099221000006113,Did not complete expert patient education versus routine treatment diabetes structured education programme,NOS
+8099281000006112,Did not attend dose adjustment for normal eating diabetes structured education programme,NOS
+8099301000006111,Did not attend DAFNE (dose adjustment for normal eating) diabetes structured education programme,NOS
+8099311000006114,Did not attend diabetes education and self management for ongoing and newly diagnosed structured programme,NOS
+8099331000006115,Did not attend DESMOND (diabetes education and self management for ongoing and newly diagnosed) structured programme,NOS
+8099341000006113,Did not attend expert patient education versus routine treatment diabetes structured education programme,NOS
+8099361000006112,Did not attend XPERT (expert patient education versus routine treatment) diabetes structured education programme,NOS
+8118151000006112,Hyperosmolarity co-occurrent and due to drug induced diabetes mellitus,NOS
+8236711000006119,DNA (did not attend) diabetes foot screening,NOS
+8243411000006117,Referral to DESMOND (diabetes education and self management for ongoing and newly diagnosed) structured programme declined,NOS
+8297051000006113,Referral to DAFNE (dose adjustment for normal eating) diabetes structured education programme declined,NOS
+8323631000006117,Diabetes Distress Scale 2 item score,NOS
+8323641000006110,DDS2 (Diabetes Distress Scale 2) score,NOS
+8324991000006112,Diabetes Distress Scale 17 item score,NOS
+8325001000006117,DDS17 (Diabetes Distress Scale 17) score,NOS
+8343301000006117,DPNP - diabetic peripheral neuropathic pain,NOS
+8362271000006115,FootSkin Scale for Diabetic Neuropathy,NOS
+8413691000006118,X-PERT (expert patient education versus routine treatment) First Steps diabetes self-management programme completed,NOS
+9324881000006117,Diabetes mellitus in childbirth,NOS
+11633211000006112,Atypical diabetes mellitus,NOS
+11633221000006116,ADM - atypical diabetes mellitus,NOS
+11926761000006112,Hemoglobin A1c less than 7% indicating good diabetic control,NOS
+11927551000006115,Insulin dependent diabetes mellitus with ulcer,NOS
+11927561000006118,Hypoglycemic coma co-occurrent and due to diabetes mellitus type II,NOS
+11931861000006112,Pre-existing type 2 diabetes mellitus in pregnancy,NOS
+12010081000006119,Provision of patient held diabetes record declined,NOS
+12027161000006117,Diabetes Treatment Satisfaction Questionnaire status version score,NOS
+12085891000006118,Clinically significant macular oedema of right eye co-occurrent and due to diabetes mellitus,NOS
+12085901000006119,Clinically significant macular edema of right eye due to diabetes mellitus,NOS
+12085911000006116,Clinically significant macular edema of right eye co-occurrent and due to diabetes mellitus,NOS
+12085921000006112,Clinically significant macular oedema of left eye due to diabetes mellitus,NOS
+12085931000006110,Clinically significant macular oedema of left eye co-occurrent and due to diabetes mellitus,NOS
+12085941000006117,Clinically significant macular edema of left eye co-occurrent and due to diabetes mellitus,NOS
+12085951000006115,Clinically significant macular edema of left eye due to diabetes mellitus,NOS
+12086281000006113,Diabetic maculopathy of right eye,NOS
+12086291000006111,Maculopathy of right eye due to diabetes mellitus,NOS
+12086301000006112,Disorder of right macula co-occurrent and due to diabetes mellitus,NOS
+12086321000006119,Maculopathy of left eye due to diabetes mellitus,NOS
+12086331000006116,Diabetic maculopathy of left eye,NOS
+12086341000006114,Disorder of left macula co-occurrent and due to diabetes mellitus,NOS
+12121371000006111,Diabetes structured education programme offered,NOS
+12121381000006114,Diabetic retinopathy screening offered,NOS
+12166101000006119,Retinopathy co-occurrent and due to diabetes mellitus,NOS
+12166111000006116,Retinopathy due to diabetes mellitus,NOS
+12174801000006114,Eye disorder due to diabetes mellitus,NOS
+12174811000006112,Disorder of eye co-occurrent and due to diabetes mellitus,NOS
+12180761000006118,DLRPN - diabetic lumbosacral radiculoplexus neuropathy,NOS
+12180771000006113,Lumbosacral radiculoplexus neuropathy with diabetes mellitus,NOS
+12180781000006111,Lumbosacral radiculoplexus neuropathy co-occurrent and due to diabetes mellitus,NOS
+12180791000006114,Diabetic lumbosacral plexopathy,NOS
+12183221000006110,Cataract co-occurrent and due to diabetes mellitus,NOS
+12183231000006113,Cataract due to diabetes mellitus,NOS
+12185421000006113,Polyneuropathy due to diabetes mellitus,NOS
+12185431000006111,Polyneuropathy co-occurrent and due to diabetes mellitus,NOS
+12186011000006117,Autonomic neuropathy with diabetes mellitus,NOS
+12186021000006113,Autonomic neuropathy co-occurrent and due to diabetes mellitus,NOS
+12189881000006112,Proliferative retinopathy with diabetes mellitus,NOS
+12189891000006110,PDR - proliferative diabetic retinopathy,NOS
+12189901000006114,Proliferative retinopathy co-occurrent and due to diabetes mellitus,NOS
+12218501000006114,Disorder of kidney co-occurrent and due to diabetes mellitus,NOS
+12218511000006112,Kidney disorder due to diabetes mellitus,NOS
+12220641000006117,Mononeuritis multiplex co-occurrent and due to diabetes mellitus,NOS
+12220651000006115,Mononeuritis multiplex with diabetes mellitus,NOS
+12220661000006118,Asymptomatic neuropathy co-occurrent and due to diabetes mellitus,NOS
+12220671000006113,Asymptomatic neuropathy with diabetes mellitus,NOS
+12220681000006111,Preproliferative retinopathy co-occurrent and due to diabetes mellitus,NOS
+12220691000006114,Advanced maculopathy co-occurrent and due to diabetes mellitus,NOS
+12220701000006114,Advanced maculopathy with diabetes mellitus,NOS
+12220711000006112,Iritis co-occurrent and due to diabetes mellitus,NOS
+12220721000006116,Iritis due to diabetes mellitus,NOS
+12221111000006119,Neuropathy co-occurrent and due to diabetes mellitus,NOS
+12221151000006118,Mononeuropathy co-occurrent and due to diabetes mellitus,NOS
+12221241000006112,Disorder of macula co-occurrent and due to diabetes mellitus,NOS
+12221251000006114,Maculopathy due to diabetes mellitus,NOS
+12221261000006111,Maculopathy with diabetes mellitus,NOS
+12224581000006118,Advanced retinal disease co-occurrent and due to diabetes mellitus,NOS
+12224591000006115,Advanced retinal disease with diabetes mellitus,NOS
+12224751000006117,Severe nonproliferative retinopathy co-occurrent and due to diabetes mellitus,NOS
+12224761000006115,Severe NPDR (nonproliferative diabetic retinopathy),NOS
+12224811000006110,Macular oedema co-occurrent and due to diabetes mellitus,NOS
+12224821000006119,Macular edema co-occurrent and due to diabetes mellitus,NOS
+12224831000006116,Macular edema due to diabetes mellitus,NOS
+12224841000006114,Macular oedema due to diabetes mallitus,NOS
+12295441000006116,Nonproliferative retinopathy co-occurrent and due to diabetes mellitus,NOS
+12331051000006112,Mononeuropathy with type 2 diabetes mellitus,NOS
+12331061000006114,Mononeuropathy co-occurrent and due to type 2 diabetes mellitus,NOS
+12331221000006112,Exudative maculopathy with type 1 diabetes mellitus,NOS
+12331231000006110,Exudative maculopathy co-occurrent and due to type 1 diabetes mellitus,NOS
+12332101000006118,Cataract due to diabetes mellitus type 2,NOS
+12332111000006115,Cataract co-occurrent and due to diabetes mellitus type 2,NOS
+12332271000006117,Retinopathy with type 1 diabetes mellitus,NOS
+12332281000006119,Retinopathy co-occurrent and due to type 1 diabetes mellitus,NOS
+12332751000006115,Mononeuropathy with type 1 diabetes mellitus,NOS
+12332761000006118,Mononeuropathy co-occurrent and due to type 1 diabetes mellitus,NOS
+12334131000006118,Neurological disorder co-occurrent and due to type 2 diabetes mellitus,NOS
+12334141000006111,Neurological disorder with diabetes type 2,NOS
+12334611000006115,Neurological disorder with type 1 diabetes mellitus,NOS
+12334621000006111,Neurological disorder co-occurrent and due to type 1 diabetes mellitus,NOS
+12335671000006113,Exudative maculopathy with type 2 diabetes mellitus,NOS
+12335681000006111,Exudative maculopathy co-occurrent and due to type 2 diabetes mellitus,NOS
+12335981000006115,Peripheral vascular disorder co-occurrent and due to diabetes mellitus,NOS
+12335991000006117,Peripheral vascular disorder due to diabetes mellitus,NOS
+12336111000006119,Cataract due to diabetes mellitus type 1,NOS
+12336121000006110,Cataract co-occurrent and due to diabetes mellitus type 1,NOS
+12336531000006116,Retinopathy with type 2 diabetes mellitus,NOS
+12336541000006114,Retinopathy co-occurrent and due to type 2 diabetes mellitus,NOS
+12336851000006113,Nervous system disorder due to diabetes mellitus,NOS
+12336861000006110,Disorder of nervous system co-occurrent and due to diabetes mellitus,NOS
+12336871000006115,Disorder of eye with type 2 diabetes mellitus,NOS
+12336881000006117,Disorder of eye co-occurrent and due to type 2 diabetes mellitus,NOS
+12363661000006113,Gastroparesis with type 1 diabetes mellitus,NOS
+12363671000006118,Gastroparesis co-occurrent and due to type 1 diabetes mellitus,NOS
+12363681000006115,Gastroparesis with type 2 diabetes mellitus,NOS
+12363691000006117,Gastroparesis co-occurrent and due to type 2 diabetes mellitus,NOS
+12363721000006110,Polyneuropathy co-occurrent and due to type 1 diabetes mellitus,NOS
+12363731000006113,Polyneuropathy co-occurrent and due to type 2 diabetes mellitus,NOS
+12370271000006116,Disorder of eye with type 1 diabetes mellitus,NOS
+12370281000006118,Disorder of eye co-occurrent and due to type 1 diabetes mellitus,NOS
+12482051000006118,Admit diabetic emergency,NOS
+12485441000006119,NIDDM with peripheral circulatory disorder,NOS
+12488081000006112,Listed for Diabetology admissn,NOS
+12488891000006118,Glucose tol. test diabetic,NOS
+12489351000006110,Diabetic diet - poor compliance,NOS
+12489361000006112,Diabetic diet - good compliance,NOS
+12489851000006117,Type II diabetes mellitus with exudative maculopathy,NOS
+12490171000006114,Diabetic monitoring - lower risk albumin excretion,NOS
+12490181000006112,Diabetic monitoring - higher risk albumin excretion,NOS
+12491551000006119,Radiculoplexoneuropathy due to diabetes mellitus,NOS
+12491561000006117,Diabetic radiculoplexus neuropathy,NOS
+12491571000006112,Lumbosacral plexopathy co-occurrent and due to diabetes mellitus,NOS
+12491581000006110,Lumbosacral plexopathy with diabetes mellitus,NOS
+12626341000006114,QOF (Quality and Outcomes Framework) diabetes mellitus quality indicator-related care invitation,NOS
+12702361000006111,Diabetic cataract associated with type 1 diabetes mellitus,NOS
+12702371000006116,Mononeuropathy associated with type 1 diabetes mellitus,NOS
+12702381000006118,Diabetic oculopathy due to type I diabetes mellitus,NOS
+12702391000006115,Diabetic cataract associated with type 2 diabetes mellitus,NOS
+12702401000006118,Mononeuropathy associated with type 2 diabetes mellitus,NOS
+12702411000006115,Type II diabetes mellitus with neurological complications,NOS
+12702421000006111,Type II diabetes mellitus with ophthalmic complications,NOS
+12703741000006118,Adverse reaction to antidiabetic drug,NOS
+12703991000006112,[X]Unspecified diabetes mellitus with renal complications,NOS
+12704391000006113,Neurologic disorder associated with diabetes mellitus,NOS
+12704401000006110,Diabetic oculopathy,NOS
+12704411000006113,Peripheral circulatory disorder associated with diabetes mellitus,NOS
+12704941000006117,Neurological disorder associated with type 1 diabetes mellitus,NOS
+12704951000006115,Diabetic retinopathy associated with type 1 diabetes mellitus,NOS
+12704961000006118,Diabetic oculopathy associated with type 2 diabetes mellitus,NOS
+12704971000006113,Neurologic disorder associated with type 2 diabetes mellitus,NOS
+12704981000006111,Diabetic retinopathy associated with type 2 diabetes mellitus,NOS
+12704991000006114,Ketoacidotic coma in type 2 diabetes mellitus,NOS
+12705001000006119,Exudative maculopathy associated with type 1 diabetes mellitus,NOS
+12705011000006116,Exudative maculopathy associated with type 2 diabetes mellitus,NOS
+12705021000006112,Clinically significant macular oedema of right eye due to diabetes mellitus,NOS
+12705071000006113,Gastroparesis due to type 1 diabetes mellitus,NOS
+12705081000006111,Gastroparesis due to type 2 diabetes mellitus,NOS
+12718861000006118,"Diabetes mellitus, adult onset, with no mention of complication",NOS
+12730971000006110,Diabetes mellitus with other specified manifestation,NOS
+12730981000006113,Diabetes mellitus NOS with other specified manifestation,NOS
+12762301000006111,Diabetic oculopathy associated with type 2 diabetes mellitus,NOS

@@ -1,0 +1,13 @@
+﻿icd10_code,pvd_term
+I70.2,Atherosclerosis of arteries of extremities
+I71.3,"Abdominal aortic aneurysm, ruptured"
+I71.4,"Abdominal aortic aneurysm, without mention of rupture"
+I71.5,"Thoracoabdominal aortic aneurysm, ruptured"
+I71.6,"Thoracoabdominal aortic aneurysm, without mention of rupture"
+I71.8,"Aortic aneurysm of unspecified site, ruptured"
+I71.9,"Aortic aneurysm of unspecified site, without mention of rupture"
+I73,Other peripheral vascular diseases
+I73.1,Thromboangiitis obliterans [Buerger]
+I73.8,Other specified peripheral vascular diseases
+I73.9,"Peripheral vascular disease, unspecified"
+I79.2,Peripheral angiopathy in diseases classified elsewhere
