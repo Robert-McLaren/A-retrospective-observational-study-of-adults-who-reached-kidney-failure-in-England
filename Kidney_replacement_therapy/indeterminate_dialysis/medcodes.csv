@@ -1,0 +1,55 @@
+﻿medcodeid,medcode_term
+251956015,H/O: kidney dialysis
+251957012,H/O: renal dialysis
+290737016,Dependence on renal dialysis
+329081019,Foreign object left in body during kidney dialysis
+329116017,Failure of sterile precautions during kidney dialysis
+394640016,Renal dialysis
+460680012,Dialysis finding
+460910019,[V]Aftercare involving intermittent dialysis
+460911015,[V]Aftercare involving extracorporeal dialysis
+460913017,[V]Other specified aftercare involving intermittent dialysis
+460914011,[V]Unspecified aftercare involving intermittent dialysis
+461420012,Dialysis procedure
+1227722017,[V]Aftercare involving renal dialysis NOS
+2474415018,Dialysis fluid examination
+2478488018,Dialysis fluid urea level
+2478490017,Dialysis fluid creatinine level
+2478492013,Dialysis fluid glucose level
+2478640010,Dialysis fluid potassium level
+2478641014,Dialysis fluid sodium level
+1.76711E+14,"Renal dialysis with complication, without blame"
+2.28101E+14,Placement ambulatory apparatus compensation renal failure
+2.28111E+14,Placement ambulatory apparatus- compensate renal failure NOS
+2.28121E+14,Placement ambulatory apparatus- compensate renal failure OS
+2.28131E+14,Placement ambulatory dialysis apparatus - compens renal fail
+2.28211E+14,Placement other apparatus for compensation for renal failure
+2.28221E+14,Placement other apparatus- compensate for renal failure NOS
+2.28231E+14,Placement other apparatus- compensate for renal failure OS
+3.84641E+14,[X]Failure sterile precautions dur kidney dialys/other perf
+3.87441E+14,[X]Foreign obj accid left body dur kidney dialys/oth perfus
+3.94661E+14,[X]Kidny dialysis caus abn reac pt/lat comp no misad at time
+4.29761E+14,[X]Unintent cut/punct/perf/haemorrh dur kidney dial/oth perf
+4.41151E+14,"Accidental cut, puncture, perforation or haemorrhage during kidney dialysis"
+4.41161E+14,"Accid cut,puncture,perf,h'ge - kidney dialysis/oth perfusion"
+4.46291E+14,Accidental cut/puncture/perf/haem'ge during renal dialysis
+6.19541E+14,Dialysis for renal failure
+6.63551E+14,Failure of sterile precautions during renal dialysis
+7.13611E+14,Mechanical failure of instrument or apparatus during kidney dialysis
+7.13671E+14,Mechanical failure of apparatus during renal dialysis
+7.66101E+14,Foreign object left in body during renal dialysis
+8.66731E+14,Kidney replacement NOS
+8.66751E+14,Kidney replacement
+8.77641E+14,Extracorporeal kidney
+1927751000006113,Complication of dialysis
+2613841000000113,Dialysis therapy started by renal service
+4259231000006110,Post-dialysis
+5094161000006119,End stage renal failure on dialysis
+5488801000006112,Kidney dialysis
+6447761000006113,Dialysis care
+6593721000006112,Dialysis catheter
+6613531000006114,Renal replacement
+6922501000006119,Dialysis unit
+7714891000006118,Chronic kidney disease stage 5 on dialysis
+4223014,Bilateral nephrectomy
+1229817017,Bilateral congenital absence of kidneys

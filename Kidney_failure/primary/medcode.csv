@@ -1,0 +1,251 @@
+﻿medcodeid,medcode_term
+4223014,Bilateral nephrectomy
+30043012,Mechanical complication of dialysis catheter
+117168016,Renal transplant
+118218017,Peritoneal dialysis
+251956015,H/O: kidney dialysis
+251957012,H/O: renal dialysis
+261136015,Peritoneal dialysis sample
+272320011,Allotransplantation of kidney from live donor
+272325018,Cadaveric renal transplant
+272326017,Other specified transplantation of kidney
+272327014,Transplantation of kidney NOS
+272389014,Exploration of renal transplant
+278832011,Haemodialysis
+278834012,Other specified compensation for renal failure
+278835013,Compensation for renal failure NOS
+278844014,Insertion of temporary peritoneal dialysis catheter
+282526013,Intestinal dialysis
+290737016,Dependence on renal dialysis
+324973015,Kidney transplant failure and rejection
+329081019,Foreign object left in body during kidney dialysis
+329116017,Failure of sterile precautions during kidney dialysis
+353974015,Xenograft renal transplant
+354567013,Beta-2 microglobulin arthropathy
+354574015,Aluminium-related osteopathy
+354575019,Aluminium bone disease
+354578017,Aluminium-related osteomalacia
+354582015,Aluminium-related fracturing osteodystrophy
+354591016,Bloodstained peritoneal dialysis effluent
+354610013,Renal transplant rejection
+354612017,Accelerated rejection of renal transplant
+354613010,Very mild acute rejection of renal transplant
+354615015,Acute rejection of renal transplant
+354616019,Acute rejection of renal transplant - grade I
+354617011,Acute rejection of renal transplant - grade II
+354618018,Acute rejection of renal transplant - grade III
+354619014,Chronic rejection of renal transplant
+354621016,Chronic transplant nephropathy
+354623018,Chronic rejection of renal transplant - grade 1
+354624012,Chronic rejection of renal transplant - grade II
+354627017,Chronic rejection of renal transplant - grade III
+354628010,Acute-on-chronic rejection of renal transplant
+357219012,Continuous ambulatory peritoneal dialysis
+394365013,Transplant nephrectomy
+394639018,Compensation for renal failure
+394640016,Renal dialysis
+413415016,Unexplained episode of renal transplant dysfunction
+422992018,Excision of rejected transplanted kidney
+453312018,Peritoneal dialysis-associated peritonitis
+460644012,History of renal transplant
+460680012,Dialysis finding
+460910019,[V]Aftercare involving intermittent dialysis
+460911015,[V]Aftercare involving extracorporeal dialysis
+460913017,[V]Other specified aftercare involving intermittent dialysis
+460914011,[V]Unspecified aftercare involving intermittent dialysis
+461420012,Dialysis procedure
+501594013,Transplantation of kidney
+507483018,Dialysis disequilibrium
+507993019,Acute hypercalcaemia of dialysis
+1227722017,[V]Aftercare involving renal dialysis NOS
+1227723010,[V]Aftercare involving peritoneal dialysis
+1229817017,Bilateral congenital absence of kidneys
+2474415018,Dialysis fluid examination
+2474453011,Peritoneal dialysis fluid cell count
+2478488018,Dialysis fluid urea level
+2478490017,Dialysis fluid creatinine level
+2478492013,Dialysis fluid glucose level
+2478640010,Dialysis fluid potassium level
+2478641014,Dialysis fluid sodium level
+2645965011,Stenosis of arteriovenous dialysis fistula
+2675886019,Creation of graft fistula for dialysis
+2692168016,Automated peritoneal dialysis
+2767154014,Chronic kidney disease stage 5
+3525759011,Insertion of tunnelled haemodialysis catheter
+9.0461E+13,Transplantation of kidney from cadaver
+9.0471E+13,Live donor renal transplant
+1.06291E+14,Thomas intravascular shunt for dialysis
+1.76711E+14,"Renal dialysis with complication, without blame"
+1.77251E+14,"Renal transplant with complication, without blame"
+1.77341E+14,Renal tubulo-interstitial disorders in transplant rejection
+1.81021E+14,Removal of ambulatory peritoneal dialysis catheter
+2.15521E+14,End stage renal disease
+2.28101E+14,Placement ambulatory apparatus compensation renal failure
+2.28111E+14,Placement ambulatory apparatus- compensate renal failure NOS
+2.28121E+14,Placement ambulatory apparatus- compensate renal failure OS
+2.28131E+14,Placement ambulatory dialysis apparatus - compens renal fail
+2.28211E+14,Placement other apparatus for compensation for renal failure
+2.28221E+14,Placement other apparatus- compensate for renal failure NOS
+2.28231E+14,Placement other apparatus- compensate for renal failure OS
+3.04111E+14,Chronic kidney disease stage 5
+3.66671E+14,Interventions associated with transplantation of kidney
+3.72621E+14,Allotransplantation of kidney from beating heart cadaver
+3.75841E+14,Peritoneal dialysis NEC
+3.80061E+14,Interventions associated with transplantation of kidney NOS
+3.80101E+14,Examination of recipient after kidney transplant
+3.84641E+14,[X]Failure sterile precautions dur kidney dialys/other perf
+3.87441E+14,[X]Foreign obj accid left body dur kidney dialys/oth perfus
+3.94661E+14,[X]Kidny dialysis caus abn reac pt/lat comp no misad at time
+3.99381E+14,Allotransplantation of kidney from cadaver NEC
+4.24791E+14,[X]Renal tubulo-interstitial disorders/transplant rejection
+4.29761E+14,[X]Unintent cut/punct/perf/haemorrh dur kidney dial/oth perf
+4.41151E+14,"Accidental cut, puncture, perforation or haemorrhage during kidney dialysis"
+4.41161E+14,"Accid cut,puncture,perf,h'ge - kidney dialysis/oth perfusion"
+4.46291E+14,Accidental cut/puncture/perf/haem'ge during renal dialysis
+4.78131E+14,Allotransplantation of kidney from cadaver
+5.11401E+14,BRA - Bilateral renal agenesis
+5.96321E+14,Chronic kidney disease stage 5 with proteinuria
+5.96401E+14,Chronic kidney disease stage 5 without proteinuria
+6.15611E+14,Det.ren.func.after ren.transpl
+6.18511E+14,CKD stage 5 with proteinuria
+6.18521E+14,CKD stage 5 without proteinuria
+6.19541E+14,Dialysis for renal failure
+6.37771E+14,Ligation of arteriovenous dialysis fistula
+6.38111E+14,Ligation of arteriovenous dialysis graft
+6.41471E+14,End stage renal failure
+6.41491E+14,End-stage renal disease
+6.63551E+14,Failure of sterile precautions during renal dialysis
+7.13611E+14,Mechanical failure of instrument or apparatus during kidney dialysis
+7.13671E+14,Mechanical failure of apparatus during renal dialysis
+7.54061E+14,"Kidney transplant with complication, without blame"
+7.54781E+14,"Kidney dialysis with complication, without blame"
+7.66101E+14,Foreign object left in body during renal dialysis
+7.73041E+14,Insertion of chronic ambulatory peritoneal dialysis catheter
+8.66731E+14,Kidney replacement NOS
+8.66751E+14,Kidney replacement
+8.77641E+14,Extracorporeal kidney
+9.00121E+14,Renal transplant rejected
+9.06311E+14,[RFC] Continuous ambulatory peritoneal dialysis
+9.06351E+14,[RFC] Renal transplant
+9.88961E+14,Renal transplant rejected
+9.94441E+14,Chronic kidney disease stage 5
+1549841000006116,Allotransplantation of kidney from non-beating heart cadaver
+1550021000006110,OS interventions associated with transplantation of kidney
+1705621000000113,Flushing of peritoneal dialysis catheter
+1743241000006119,Continuous ambulatory peritoneal dialysis associated peritonitis
+1847091000006110,Aneurysm of superficialised artery of dialysis arteriovenous fistula
+1847111000006118,Aneurysm of anastomotic site of dialysis arteriovenous fistula
+1848741000006116,Complication of peritoneal dialysis
+1870801000006111,Infection of haemodialysis arteriovenous fistula
+1905531000006112,Excision of rejected transplanted kidney
+1927751000006113,Complication of dialysis
+1940531000006110,CKD G5A1 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A1
+1940541000006117,CKD G5A2 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A2
+1940551000006115,CKD G5A3 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A3
+2189151000000117,Urological complication of renal transplant
+2191221000000118,Vascular complication of renal transplant
+2195121000000113,Ruptured aneurysm of dialysis vascular access
+2195661000000114,Aneurysm of dialysis arteriovenous fistula
+2195721000000112,Aneurysm of needle site of dialysis arteriovenous fistula
+2197961000000113,Rupture of artery of transplanted kidney
+2198001000000111,Rupture of vein of transplanted kidney
+2198141000000110,Stenosis of vein of transplanted kidney
+2209021000000112,Aneurysm of vein of transplanted kidney
+2209101000000119,Aneurysm of artery of transplanted kidney
+2210341000000113,Stenosis of dialysis vascular access
+2210381000000117,Thrombosis of dialysis vascular access
+2211311000000117,Haemodialysis first use syndrome
+2211591000000116,Thrombus in peritoneal dialysis catheter
+2211671000000119,Anaphylactoid reaction due to haemodialysis
+2232261000000110,Aneurysm of dialysis vascular access
+2234541000000115,Thrombosis of artery of transplanted kidney
+2237821000000118,Occlusion of dialysis vascular access
+2237861000000114,Infection of dialysis vascular access
+2237901000000119,Haemorrhage of dialysis vascular access
+2237941000000116,Rupture of dialysis vascular access
+2237981000000112,Stenosis of dialysis arteriovenous graft
+2238021000000114,Stenosis of dialysis arteriovenous shunt
+2238261000000112,Thrombosis of dialysis arteriovenous graft
+2238301000000119,Thrombosis of dialysis arteriovenous fistula
+2238341000000116,Thrombosis of dialysis arteriovenous shunt
+2238381000000112,Occlusion of dialysis arteriovenous graft
+2238421000000115,Occlusion of dialysis arteriovenous fistula
+2240321000000114,Infection of dialysis arteriovenous graft
+2240741000000115,Infection of dialysis arteriovenous shunt
+2240831000000118,Haemorrhage of dialysis arteriovenous graft
+2240871000000116,Haemorrhage of dialysis arteriovenous fistula
+2240911000000119,Haemorrhage of dialysis arteriovenous shunt
+2240951000000115,Rupture of dialysis arteriovenous graft
+2240991000000111,Rupture of dialysis arteriovenous fistula
+2241031000000116,Rupture of dialysis arteriovenous shunt
+2253631000000110,Stenosis of arterial side of dialysis arteriovenous shunt
+2253671000000112,Stenosis of venous side of dialysis arteriovenous shunt
+2528541000006114,Bilateral total nephrectomy
+2613841000000113,Dialysis therapy started by renal service
+2613881000000117,Dialysis therapy stopped by renal service
+2641961000000110,Peritoneal dialysis fluid adenosine deaminase level
+2649061000006115,Dialysis dementia
+2672571000006112,Removal of peritoneal dialysis catheter
+3135211000006116,Removal of arteriovenous shunt for renal dialysis
+3245841000006115,End stage kidney disease
+3245851000006118,ESRF - End stage renal failure
+3245861000006116,ESCRF - End stage chronic renal failure
+3245871000006111,ESRD - End stage renal disease
+3245881000006114,End stage chronic renal failure
+3468091000006118,Haemodialysis training at home
+3605671000006116,"Haemodialysis, maintenance at home"
+3647021000006114,Transplant of kidney
+3647031000006112,Kidney transplantation
+3647051000006117,Tx - Renal transplantation
+3647061000006115,Kidney transplant
+3647091000006111,Renal graft
+3653841000006116,Transplanted kidney
+3798201000006112,Formation of arteriovenous fistula for kidney dialysis
+3918321000006116,Dialysis disequilibrium syndrome
+4259231000006110,Post-dialysis
+4611391000006114,Peritoneal dialysate sample
+4669451000006113,Exploration of kidney transplant
+4694051000006116,Removal of chronic ambulatory peritoneal dialysis catheter
+4938591000006118,Washing back through haemodialysis lines
+5094161000006119,End stage renal failure on dialysis
+5094171000006114,End stage renal failure with renal transplant
+5095941000006115,Disorder of peritoneal dialysis catheter
+5095971000006111,Blockage of peritoneal dialysis catheter
+5096031000006117,Primary non-function of renal transplant
+5096231000006110,Failed renal transplant
+5120131000006116,Aspiration of chronic ambulatory peritoneal dialysis catheter
+5120141000006114,Flushing of chronic ambulatory peritoneal dialysis catheter
+5120171000006118,CAPD - Continuous ambulatory peritoneal dialysis
+5120251000006115,Night-time intermittent peritoneal dialysis
+5161281000006112,US scan of transplant kidney
+5191491000006112,Venous port blood sampling during haemodialysis
+5488801000006112,Kidney dialysis
+5647621000006110,Entire transplant kidney
+5907591000006115,Hemodialysis
+6210341000006119,Peritoneal dialysis catheter
+6447761000006113,Dialysis care
+6593721000006112,Dialysis catheter
+6613531000006114,Renal replacement
+6724211000006116,Dialysis access maintenance
+6922501000006119,Dialysis unit
+7083771000006113,Peritoneal dialysis catheter procedure
+7174851000006111,CKD stage 5
+7207581000006116,Laparoscopic insertion of peritoneal dialysis catheter
+7212381000006113,Renal transplant biopsy sample
+7218201000006110,Peritoneal dialysis catheter in situ
+7238471000006113,Biopsy of transplanted kidney using ultrasound guidance
+7262731000006112,Cloudy peritoneal dialysis effluent
+7354801000006116,Removal of hemodialysis catheter
+7401361000006113,Haemodialysis start/stop set
+7403361000006112,"Haemodialysis system, institutional/home-use"
+7406851000006110,Peritoneal dialysis system tubing set
+7615371000006117,Anaemia in end stage renal disease
+7641781000006113,Maintenance haemodialysis
+7700671000006112,Cadaver donor for kidney transplant
+7710041000006114,Transplant renal artery stenosis
+7714891000006118,Chronic kidney disease stage 5 on dialysis
+7714921000006112,Chronic kidney disease stage 5 with transplant
+7770921000006110,Haemodialysis care
+7966611000006114,Chronic kidney disease stage 5 due to type 2 diabetes mellitus
+8027491000006113,Chronic kidney disease stage 5 due to type 1 diabetes mellitus
+12704471000006116,End-stage renal disease

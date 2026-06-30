@@ -1,0 +1,41 @@
+﻿opcs_code,opcs_descr
+L741,Insertion of arteriovenous prosthesis
+L742,Creation of arteriovenous fistula NEC
+L743,Attention to arterioenous shunt
+L744,Banding of arteriovenous fistula
+L745,Thrombectomy of arteriovenous fistula
+L746,Creation of graft fistula for dialysis
+L748,Other specified arterioveous shunt
+L749,Unspecified arteriovenous shunt
+M01,Transplantation of kidney
+M012,Allotransplantation of kidney from live donor
+M013,Allotransplantation of kidney from cadaver NEC
+M014,Allotransplantation of kidney from cadaver heart beating
+M015,Allotransplantation of kidney from cadaver heart non-beating
+M018,Other specified transplantation of kidney
+M019,Unspecified transplantation of kidney
+M023,Bilateral nephrectomy
+M026,Excision of rejected transplanted kidney
+M027,Excision of transplanted kidney NEC
+M084,Exploration of transplanted kidney
+M17,Interventions associated with transplantation of kidney
+M174,Post-transplantation of kidney examination â€“ recipient
+M178,Other specified interventions associated with transplantation of kidney
+M179,Unspecified interventions associated with transplantation of kidney
+X40,Compensation for renal failure
+X401,Dialysis Renal
+X402,Dialysis Peritoneal NEC
+X403,Haemodialysis NEC
+X405,Dialysis Peritoneal Automated
+X406,Continuous ambulatory peritoneal dialysis
+X408,Other specified compensation for renal failure
+X409,Unspecified compensation for renal failure
+X41,Placement of ambulatory apparatus for compensation for renal failure
+X411,Insertion of ambulatory peritoneal dialysis catheter
+X412,Removal of ambulatory peritoneal dialysis catheter
+X418,Other specified placement of ambulatory apparatus for compensation for renal failure
+X419,Unspecified placement of ambulatory apparatus for compensation for renal failure
+X42,Placement of other apparatus for compensation for renal failure
+X421,Insertion of temporary peritoneal dialysis catheter
+X428,Other specified placement of other apparatus for compensation for renal failure
+X429,Unspecified placement of other apparatus for compensation for renal failure
